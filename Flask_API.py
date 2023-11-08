@@ -10,12 +10,6 @@ app = Flask(__name__)
 # Database Setup
 engine = create_engine("sqlite:///Data_Engineering.db")
 
-with open("Data_Engineering.sql", "r", encoding="utf-8") as file:
-    query = file.read() 
-    with engine.begin() as conn:
-        sql_conn = conn.connection
-        sql_conn.executescript(query)
-
 # reflect an existing database into a new model
 Base = automap_base()
 
