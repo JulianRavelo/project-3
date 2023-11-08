@@ -1,6 +1,6 @@
 # Electric Vehicle Use in New South Wales
 ## Table of Contents
-- [Project Description](#project-description)
+- [Project Overview](#project-overview)
 - [Code Contributors](#code-contributors)
 - [File Layout](#file-layout)
 - [SQL database section](#sql-database-section)
@@ -12,7 +12,7 @@
 - [Suburb information breakdown](#suburb-information-breakdown)
 - [Sources](#sources)
 
-## Project Description
+## Project Overview
 The Electric Vehicle (EV) Use in New South Wales (NSW) project created a JavaScript dashboard that enables users to explore and interact with a collection of data through a combination of charts and map visualisations. NSW is the frontrunner in the electric vehicle movement within Australia, boasting the highest number of EV registrations in the country. NSW has been proactive in its approach to accelerating the adoption of EVs, partly due to the introduction of a $663 million Electric Vehicle Strategy in June 2021 and other incentives. 
 
 The project's objective is to analyse the influence of electric vehicles (EVs) in NSW and whether the surge in EV adoption correlates with a change in primary fuel sources used within the state. Additionally, it seeks to provide insightful comparisons between NSW and other key Australian states, namely Queensland, Victoria, South Australia, and Tasmania. 
