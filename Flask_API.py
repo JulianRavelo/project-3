@@ -1,23 +1,29 @@
 # Import the required libraries\n",
-import sqlalchemy
 from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
-from sqlalchemy import create_engine
-
+from sqlalchemy import create_engine, text
 from flask import Flask, jsonify
 
 # Flask setup
 app = Flask(__name__)
 
 # Database Setup
-engine = create_engine("sql:///Data_Engineering.sql")
+engine = create_engine("sqlite:///Data_Engineering.db")
+
+with open("Data_Engineering.sql", "r", encoding="utf-8") as file:
+    query = file.read() 
+    with engine.begin() as conn:
+        sql_conn = conn.connection
+        sql_conn.executescript(query)
+
 # reflect an existing database into a new model
 Base = automap_base()
+
 # reflect the tables
 Base.prepare(autoload_with=engine)
 
 #Define classes for each database
-EVs = Base.classes.evcar
+EVs = Base.classes.evcar 
 Fuel_Source = Base.classes.fueltype
 
 # Create an API route for EVs
@@ -51,5 +57,3 @@ def get_geojson_data():
     with open("Resources/suburb-2-nsw.geojson", 'r') as geojson_file:
         geojson_data = geojson_file.read()
     return jsonify(geojson_data)
-
-
