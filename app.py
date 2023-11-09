@@ -17,8 +17,9 @@ Base = automap_base()
 Base.prepare(autoload_with=engine)
 
 #Define classes for each database
-# EVs = Base.classes.evcar 
-# Fuel_Source = Base.classes.fueltype
+EVs = Base.classes.evcar
+EV_Chargers = Base.classes.evchargers 
+Fuel_Source = Base.classes.fueltype
 
 # # Create an API route for EVs
 @app.route("/api/v1.0/EVs")
