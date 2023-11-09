@@ -22,9 +22,28 @@ Utilising CSV datasets sourced from the Australian Government NationalMap websit
 The dashboard showcases an array of visualisations, including a bar chart displaying total EV registrations per year, a pie chart comparing fuel use for aforementioned states, and an interactive map that pinpoints the locations of EVs chargers. The map will also highlight specific suburbs, displaying pop-up information with details on EV registrations and total number of available EV chargers.
 
 ## Code Contributors
-*Link to contributors*
+Cayley Morrow
+
+Chang Yu
+
+Damian Kifuso
+
+Julian Ravelo
 
 ## File layout
+### [Resources](#resources)
+- [chargers_by_postcode_prototype.csv](Resources/chargers_by_postcode_prototype.csv)
+    - The dataset contains number of Electric Vehicle (EV) registrations by postcode for a specified year. The data documents the total number of vehicles registered in that year, regardless of whether they are new registrations or a re-registration. The years documented in the dataset are between 2017 and 2021. There are 4,751 rows and 832 columns of data.
+- [ev_evc_prototype.csv](Resources/ev_evc_prototype.csv)
+    - The dataset contains the number and location of current Electric Vehicle (EV) charging stations. The dataset contains information such as name, location details, charger type, plug type, charging network, power (kW), and hardware brand. There are no dates documented in the dataset. There are 505 rows and 12 columns of data.
+- [NEMFUELMIX_ALL_202311022059.csv](Resources/NEMFUELMIX_ALL_202311022059.csv)
+    - The dataset is a breakdown of energy sources in the Australian National Electricity Market (NEM), containing energy source distribution of all Australian States (not including WA, NT, and ACT) between 29th October 2022 to the 21st October 2023. There are 1,524 rows and 5 columns of data.
+
+### [Coding]()
+- [app.py](app.py)
+    - This python file contains the code used to create Python Flask-powered API for each of the csv files. 
+- [Data_Engineering.sql](Data_Engineering.sql)
+
 
 
 ## SQL database section
