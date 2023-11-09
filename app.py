@@ -17,10 +17,10 @@ Base = automap_base()
 Base.prepare(autoload_with=engine)
 
 #Define classes for each database
-EVs = Base.classes.evcar 
-Fuel_Source = Base.classes.fueltype
+# EVs = Base.classes.evcar 
+# Fuel_Source = Base.classes.fueltype
 
-# Create an API route for EVs
+# # Create an API route for EVs
 @app.route("/api/v1.0/EVs")
 def get_EVs():
     session = Session(engine)
@@ -32,7 +32,7 @@ def get_EVs():
         EVs_data.append(result)
     return jsonify(EVs_data)
 
-# Create an API route for Fuel Sources
+# # Create an API route for Fuel Sources
 @app.route("/api/v1.0/Fuel_Sources")
 def get_fuel_sources():
     session = Session(engine)
