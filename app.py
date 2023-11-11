@@ -1,6 +1,8 @@
 # Import the required libraries
 from sqlalchemy import create_engine, Table, MetaData
 from flask import Flask, jsonify, send_file
+from watchdog.events import FileSystemEventHandler, EVENT_TYPE_OPENED
+
 
 # Flask setup
 app = Flask(__name__)
@@ -65,3 +67,6 @@ def get_geojson_data():
     with open("Resources/final_nsw.geojson", 'r') as geojson_file:
         geojson_data = geojson_file.read()
     return geojson_data
+
+if __name__ == '__main__':
+    app.run(debug=True)
