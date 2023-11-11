@@ -39,14 +39,14 @@ All links in this section take you directly to the file in the repository.
 - [index.html](index.html)
     - The file contains HTML documentation to display the visualisations created in other files. 
 
-### [Coding](coding)
+### [Coding](Coding)
 - [Data_Engineering.ipynb](Coding/Data_Engineering.ipynb)
     - The file contains code that converts the data from csv files into Pandas DataFrames. The data has been cleaned to display relevant columns and Null values have been changed to zero values. The data has then been converted to a SQL database and reflected in Data_Engineering.db file. 
 - [Coding / static / css / style.css](Coding/static/css/style.css)
     - The file contains coding for the styling of the visualisation created using JavaScript.
 - [Coding / static / js / logic1.js](Coding/static/js/logic1.js)
     - The file contains JavaScript coding for an interactive map displaying markers for Electric Vehicle Chargers and details about the charger. 
-### [Resources](resources)
+### [Resources](Resources)
 - [Data_Engineering.db](Resources/Data_Engineering.db)
     - The file contains the cleaned data from the below csv files.
 - [EV_marker.jpg](Resources/EV_marker.jpg)
