@@ -1,12 +1,12 @@
 # Import the required libraries
 from sqlalchemy import create_engine, Table, MetaData
-from flask import Flask, jsonify
+from flask import Flask, jsonify, send_file
 
 # Flask setup
 app = Flask(__name__)
 
 # Database Setup
-engine = create_engine("sqlite:///Coding/Data_Engineering.db")
+engine = create_engine("sqlite:///Resources/Data_Engineering.db")
 
 # Reflect the tables
 metadata = MetaData()
@@ -61,7 +61,7 @@ def get_fuel_sources():
 # Create an API route for the Suburbs GeoJSON
 @app.route("/api/v1.0/NSW_suburbs")
 def get_geojson_data():
-    # Read GeoJSON data
+    # Return GeoJSON data as a string
     with open("Resources/final_nsw.geojson", 'r') as geojson_file:
         geojson_data = geojson_file.read()
-    return jsonify(geojson_data)
+    return geojson_data
