@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Dropdown Events</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+    <h2>Sources of Fuel for EV in Australia</h2>
+    <p>Numbers on hover reflect supply per state in 2022 and 2023.</p>
+    <select id="selDataset">
+        <option value="NSW">NSW</option>
+        <option value="QLD">QLD</option>
+        <option value="SA">SA</option>
+        <option value="TAS">TAS</option>
+        <option value="VIC">VIC</option>
+        <option value="WA">WA</option>
+    </select>
+
+    <div id="pie"></div>
+
+    <p>Data Sources:<br />
+        <ul>
+            <li>
+                <a href="https://aemo.com.au/energy-systems/electricity/national-electricity-market-nem/data-nem/data-dashboard-nem">Australian Energy Market Operator (Data)</a>
+            </li>
+            <li>
+                <a href="https://plotly.com/javascript/pie-charts/">Pie Charts in JavaScript (plotly)</a>
+            </li>
+            <li>
+                <a href="https://www.energy.gov.au/government-priorities/energy-data/australian-energy-statistics">Australian-energy-statistics (Data)</a>
+            </li>
+            <li>
+                <a href="https://git.bootcampcontent.com/University-of-Western-Australia/WAUS-VIRT-DATA-PT-07-2023-U-LOLC/-/tree/main/14-Interactive-Visualisations">Interactive Visualization (BootCamp)</a>
+            </li>
+            <li>
+                <a href="https://nationalmap.gov.au">EV Chargers and eletrical Vehicles (Data)</a>
+            </li>
+            </ul>
+    </p>
+    <script src="data.js"></script>
+    <script src="plots.js"></script>
+</body>
+</html>
