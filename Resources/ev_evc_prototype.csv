@@ -1,0 +1,505 @@
+latitude,longitude,Charger type,Name,State,stations,Plug types ,Charging Network,Power (kW),Hardware brand,Address,Postcode
+-36.0294725,146.8970729,AC (level 2),Albury Waste Management Centre,NSW,1,Tesla (Type 2),Chargefox,,,"565 Mudge St, Hamilton Valley NSW 2641, Australia",2641
+-30.511849,151.6693816,AC (level 2),Armidale Visitors Centre,NSW,1,Tesla (Type 2),NRMA,50,,"82 Marsh St, Armidale NSW 2350, Australia",2350
+-33.9066374,151.2132494,AC (level 2),Audi Centre Sydney,NSW,1,Tesla (Type 2),Chargefox,,,"895 S Dowling St, Zetland NSW 2017, Australia",2017
+-28.8575428,153.5610963,DC (level 3),Ballina Central Shopping Centre,NSW,2,Both CHAdeMO & CCS Combo 2/SAE,Chargefox,350,,"56 Bangalow Rd, Ballina NSW 2478, Australia",2478
+-34.8411176,148.9121914,AC (level 2),Banjo Paterson Park,NSW,1,Type 2,NRMA,50,,"81 Meehan St, Yass NSW 2582, Australia",2582
+-35.7085809,150.1756837,AC (level 2),Batemans Bay Visitor Centre,NSW,1,Tesla (Type 2),NRMA,50,,"2A Beach Rd, Batemans Bay NSW 2536, Australia",2536
+-33.4186983,149.5867887,AC (level 2),Bathurst Visitor Information Centre,NSW,1,Tesla (Type 2),NRMA,50,Tritium,"1 Kendall Ave, Bathurst NSW 2795, Australia",2795
+-34.7760967,150.70099,AC (level 2),Berry Bowling Club,NSW,1,Tesla (Type 2),NRMA,50,,"140 Queen St, Berry NSW 2535, Australia",2535
+-32.6540422,151.9629131,AC (level 2),BP Karuah,NSW,2,Tesla (Type 2),Chargefox,50,,"403 Tarean Rd, Karuah NSW 2324, Australia",2324
+-28.6433595,153.6156974,AC (level 2),Byron Bay Library,NSW,1,Type 2,EVUp,50,,"28 Lawson St, Byron Bay NSW 2481, Australia",2481
+-33.7695689,150.7339002,AC (level 2),Caddens Corner,NSW,1,Type 2,Evie Networks,112.5,,"82a O'Connell St, Kingswood NSW 2747, Australia",2747
+-30.7098041,152.9198314,AC (level 2),Caltex Macksville,NSW,2,Tesla (Type 2),Evie Networks,450,,"Pacific Hwy, Macksville NSW 2447, Australia",2447
+-35.2774924,147.7358735,DC (level 3),Caltex Tarcutta,NSW,2,Both CHAdeMO & CCS Combo 2/SAE,Evie Networks,450,,"32 Sydney St, Tarcutta NSW 2652, Australia",2652
+-36.6733612,149.8432026,AC (level 2),Church St Car Park,NSW,1,Tesla (Type 2),NRMA,50,,"81 Gipps St, Bega NSW 2550, Australia",2550
+-30.3178012,153.0899415,AC (level 2),Coffs Harbour,NSW,2,Tesla (Type 2),Chargefox,,,"coffs sevice centre, North Boambee Valley NSW 2450, Australia",2450
+-31.278816,149.279312,AC (level 2),Coonabarabran Visitors Centre,NSW,1,Tesla (Type 2),NRMA,50,,"Coonabarabran Coach, Coonabarabran NSW 2357, Australia",2357
+-33.8344591,148.6940855,AC (level 2),Cowra Art Gallery Car Park,NSW,1,Tesla (Type 2),NRMA,50,,"77 Darling St, Cowra NSW 2794, Australia",2794
+-35.7099345,150.1777589,DC (level 3),Dan Murphy\u2019s Batemans Bay,NSW,1,Both CHAdeMO & CCS Combo 2/SAE,Chargefox,50,,"51 Orient St, Batemans Bay NSW 2536, Australia",2536
+-33.9052704,151.2130888,AC (level 2),East Village Shopping Centre,NSW,2,Tesla (Type 2),Chargefox,50,Tritium,"4 Defries Ave, Zetland NSW 2017, Australia",2017
+-28.6258093,153.5869648,AC (level 2),Elements of Byron Bay Car Park,NSW,1,Type 2,Chargefox,50,,"144 Bayshore Dr, Byron Bay NSW 2481, Australia",2481
+-29.7385773,151.7358401,DC (level 3),Glen Innes Town Hall,NSW,1,Both CHAdeMO & CCS Combo 2/SAE,NRMA,50,,"265 Grey St, Glen Innes NSW 2370, Australia",2370
+-34.7479625,149.7496447,AC (level 2),Goulburn Gateway Service Station,NSW,2,Tesla (Type 2),Chargefox,,,"53 Sydney Rd, Goulburn NSW 2580, Australia",2580
+-29.6882866,152.9334258,DC (level 3),Grafton Library Car Park,NSW,1,Both CHAdeMO & CCS Combo 2/SAE,NRMA,50,,"126-144 Pound St, Grafton NSW 2460, Australia",2460
+-31.0904667,150.9273942,AC (level 2),Hands of Fame Park,NSW,1,Tesla (Type 2),NRMA,50,,"2 Kable Ave, Tamworth NSW 2340, Australia",2340
+-32.7740327,151.2955771,AC (level 2),Hunter Valley Gardens Carpark,NSW,2,Tesla (Type 2),NRMA,50,,"2090 Broke Rd, Pokolbin NSW 2320, Australia",2320
+-34.4007439,150.8982098,AC (level 2),Innovation Campus - SBRC (Building 237),NSW,1,Tesla (Type 2),ChargePoint,50,,"Innovation Way, North Wollongong NSW 2500, Australia",2500
+-34.8237247,148.3247877,AC (level 2),Jugiong Playground and Swimming Pool,NSW,1,Tesla (Type 2),NRMA,50,,"319 Riverside Dr, Jugiong NSW 2726, Australia",2726
+-32.0499784,150.8672054,AC (level 2),Kelly St Car Park,NSW,1,Tesla (Type 2),NRMA,50,,"167 Kelly St, Scone NSW 2337, Australia",2337
+-33.4777272,150.1609403,AC (level 2),Lithgow Workies Club,NSW,2,Type 2,NRMA,50,,"3-7 Tank St, Lithgow NSW 2790, Australia",2790
+-30.9781149,150.2509491,AC (level 2),Little Barber St Parking Lot,NSW,1,Tesla (Type 2),NRMA,50,,"73 Little Barber St, Gunnedah NSW 2380, Australia",2380
+-34.3117962,148.2949118,DC (level 3),Lovell St Car Park,NSW,1,Both CHAdeMO & CCS Combo 2/SAE,NRMA,50,,"88 Lovell St, Young NSW 2594, Australia",2594
+-35.3558361,145.7278158,AC (level 2),Luke Park,NSW,1,Tesla (Type 2),NRMA,50,,"33 Powell St, Jerilderie NSW 2716, Australia",2716
+-33.8961195,151.1951555,AC (level 2),Mirvac South Eveleigh,NSW,2,Type 2,Chargefox,50,,"2 Central Ave, Eveleigh NSW 2015, Australia",2015
+-34.450216,150.4430868,AC (level 2),Mittagong RSL Car Park,NSW,1,Tesla (Type 2),NRMA,50,,"9 Bessemer St, Mittagong NSW 2575, Australia",2575
+-33.8255979,151.2413993,AC (level 2),Mosman Council,NSW,1,Type 2,Evie Networks,112.5,,"6 Myahgah Rd, Mosman NSW 2088, Australia",2088
+-32.0993292,152.3811552,DC (level 3),Nabiac Park,NSW,1,Tesla (Supercharger),NRMA,50,,"35 Nabiac St, Nabiac NSW 2312, Australia",2312
+-34.7466273,146.5501803,DC (level 3),Narrandera Park,NSW,1,Both CHAdeMO & CCS Combo 2/SAE,NRMA,50,,"31 Twynam St, Narrandera NSW 2700, Australia",2700
+-32.9334094,151.7585158,AC (level 2),No. 2 Sportsground,NSW,1,J-1772,Chargefox,50,,"Smith St, Newcastle West NSW 2302, Australia",2302
+-32.5930036,149.5853108,AC (level 2),NRMA - Club Mudgee Car Park,NSW,1,Type 2,NRMA,50,,"99 Mortimer St, Mudgee NSW 2850, Australia",2850
+-34.6400407,143.5641766,AC (level 2),NRMA Balranald,NSW,1,J-1772,NRMA,50,,"89 Market St, Balranald NSW 2715, Australia",2715
+-34.5089694,144.8428368,AC (level 2),NRMA Hay,NSW,1,Tesla (Type 2),NRMA,50,,"406 Moppett St, Hay NSW 2711, Australia",2711
+-35.0023469,148.1102089,AC (level 2),Oliver's Gundagai,NSW,2,Tesla (Type 2),Chargefox,50,,"31 Annie Pyers Dr, Gundagai NSW 2722, Australia",2722
+-33.2817348,149.1034134,AC (level 2),Orange Civic Centre Car Park,NSW,1,Tesla (Type 2),NRMA,50,,"151a Byng St, Orange NSW 2800, Australia",2800
+-33.1371457,148.172794,AC (level 2),Parkes Swimming Pool,NSW,1,Type 2,NRMA,50,,"27 Dalton St, Parkes NSW 2870, Australia",2870
+-31.4635754,152.8220345,AC (level 2),Port Macquarie Service Centre,NSW,2,Tesla (Type 2),Chargefox,50,,"1063 Oxley Hwy, Thrumster NSW 2444, Australia",2444
+-36.0837322,146.9143513,AC (level 2),Rotary Kiewa St Market,NSW,1,Tesla (Type 2),NRMA,50,,"Level 2/441 Kiewa St, Albury NSW 2640, Australia",2640
+-33.9238926,147.2037618,AC (level 2),Shire St Parking/Charging,NSW,1,Tesla (Type 2),NRMA,50,,"13-15 Shire St, West Wyalong NSW 2671, Australia",2671
+-36.2188263,149.1335079,AC (level 2),Snowy Hydro Discovery Centre,NSW,2,Tesla (Type 2),Chargefox,350,,"4-10 Yulin Ave, Cooma NSW 2630, Australia",2630
+-36.4155977,148.6221625,DC (level 3),Snowy River Ave Car Park,NSW,2,Both CHAdeMO & CCS Combo 2/SAE,NRMA,50,,"3 Snowy River Ave, Jindabyne NSW 2627, Australia",2627
+-31.458288,152.828369,DC (level 3),Sovereign Place,NSW,2,Tesla (Supercharger),NRMA,50,,"John Oxley Dr before Chancellor Dr, Thrumster NSW 2444, Australia",2444
+-35.7175754,147.3176258,AC (level 2),Submarine Park,NSW,1,Tesla (Type 2),NRMA,50,,"7 Prospect St, Holbrook NSW 2644, Australia",2644
+-33.8458628,151.0696945,AC (level 2),Sydney Olympic Park,NSW,1,Tesla (Type 2),NRMA,50,Tesla,"9 Murray Rose Ave, Sydney Olympic Park NSW 2127, Australia",2127
+-31.9435087,152.4708761,AC (level 2),Taree South Service Centre,NSW,2,Tesla (Type 2),Evie Networks,450,,"201 Manning River Dr, Glenthorne NSW 2430, Australia",2430
+-29.0571876,152.0186766,AC (level 2),Tenterfield Visitors Information Centre,NSW,1,Tesla (Type 2),NRMA,50,,"157 Rouse St, Tenterfield NSW 2372, Australia",2372
+-28.6357744,153.5553165,AC (level 2),The Farm Byron Bay,NSW,2,J-1772,NRMA,50,,"Flowerdale Farm, 11 Ewingsdale Rd, Ewingsdale NSW 2481, Australia",2481
+-35.1053553,147.373681,AC (level 2),Wagga Wagga Cross St Car Park,NSW,1,Tesla (Type 2),NRMA,50,,"Wagga Wagga NSW 2650, Australia",2650
+-32.9028112,151.6698641,AC (level 2),Wallsend Car Park,NSW,2,Type 2,NRMA,50,,"76 Cowper St, Wallsend NSW 2287, Australia",2287
+-34.1682799,150.610914,AC (level 2),Walton Lane Car Park,NSW,1,Tesla (Type 2),NRMA,50,,"5 Walton Ln, Picton NSW 2571, Australia",2571
+-32.249559,148.6100591,AC (level 2),Western Plains Cultural Centre,NSW,1,Type 2,NRMA,50,,"76 Wingewarra St, Dubbo NSW 2830, Australia",2830
+-34.5881897,150.8659787,AC (level 2),Woolworths Shell Cove,NSW,2,Tesla (Type 2),Chargefox,350,,"100 Cove Blvd, Shell Cove NSW 2529, Australia",2529
+-33.7670734,150.9549733,AC (level 2),Ampol Seven Hills,NSW,2,Type 2,Evie Networks,450,,"38 Abbott Rd, Seven Hills NSW 2147, Australia",2147
+-33.7632734,151.0042477,AC (level 2),Baulkham Hills Sports Club,NSW,2,Tesla (Type 2),,,,"11 Renown Rd, Baulkham Hills NSW 2153, Australia",2153
+-33.7632734,151.0042477,AC (level 2),Baulkham Hills Sports Club,NSW,1,Tesla (Type 2),,,,"11 Renown Rd, Baulkham Hills NSW 2153, Australia",2153
+-33.8555224,151.1621054,AC (level 2),Birkenhead Point Outlet Centre,NSW,1,Type 2,,,,"19 Roseby St, Drummoyne NSW 2047, Australia",2047
+-33.8827784,151.1948135,AC (level 2),Broadway Shopping Centre,NSW,2,Tesla (Type 2),,,,"31 Bay St, Glebe NSW 2037, Australia",2037
+-33.7695689,150.7339002,AC (level 2),Caddens Corner,NSW,2,Tesla (Type 2),Evie Networks,23.04,,"82a O'Connell St, Kingswood NSW 2747, Australia",2747
+-33.5683775,150.2001079,DC (level 3),Charles Dalglish,NSW,2,Both CHAdeMO & CCS Combo 2/SAE,,,,"43 Baaners Ln, Little Hartley NSW 2790, Australia",2790
+-33.7209507,151.043454,AC (level 2),Cherrybrook Village,NSW,2,Type 2,,,,"Shop 42/47 Shepherds Dr, Cherrybrook NSW 2126, Australia",2126
+-33.8150984,151.0040097,AC (level 2),City Centre Secure,NSW,1,Type 2,,,,"23 Horwood Pl, Parramatta NSW 2150, Australia",2150
+-32.8846225,151.7283475,AC (level 2),CSIRO Energy Centre,NSW,1,J-1772,,,,"10 Murray Dwyer Cct, Mayfield West NSW 2304, Australia",2304
+-33.2278234,150.2080922,AC (level 2),Emirates One & Only Wolgan Valley,NSW,1,Tesla (Type 2),,,,"2600 Wolgan Rd, Wolgan Valley NSW 2790, Australia",2790
+-34.5801684,142.7433766,AC (level 2),Euston Bowling & Recreation Club,NSW,1,Type 2,,22,,"2/28 Nixon St, Euston NSW 2737, Australia",2737
+-33.7692352,150.9469445,AC (level 2),evse.com.au,NSW,1,Tesla (Type 2),,,,"14/13 Brumby St, Seven Hills NSW 2147, Australia",2147
+-33.7208785,150.3514193,AC (level 2),Fairmont Resort Blue Mountains,NSW,2,Tesla (Type 2),ChargePoint,,,"1 Sublime Point Rd, Leura NSW 2780, Australia",2780
+-34.7559863,149.720717,AC (level 2),Goulburn Visitor Information Centre,NSW,1,Tesla (Type 2),,,,"201 Sloane St, Goulburn NSW 2580, Australia",2580
+-35.377242,149.241433,DC (level 3),GRAHAM and FIN's charger,NSW,1,Both CHAdeMO & CCS Combo 2/SAE,,,,"6 Webber Pl, Karabar NSW 2620, Australia",2620
+-33.628374,150.832673,AC (level 2),GT Tooling,NSW,1,Tesla (Type 2),,,,"34 Railway Rd S, Mulgrave NSW 2756, Australia",2756
+-33.5688932,150.2041974,AC (level 2),Hartley Green Power,NSW,2,Type 2,,,,"22 Coxs River Rd, Little Hartley NSW 2790, Australia",2790
+-33.9269751,151.1895731,AC (level 2),Holiday Inn Sydney Airport,NSW,1,Tesla (Type 2),ChargePoint,,,"154 O'Riordan St, Mascot NSW 2020, Australia",2020
+-32.8780102,151.6968309,AC (level 2),Hunter Wetlands Centre,NSW,1,Tesla (Type 2),,,,"412 Sandgate Rd, Shortland NSW 2307, Australia",2307
+-33.8751814,151.1998628,AC (level 2),ICC Sydney Exhibition Centre Car Park (Car Park 1),NSW,20,Tesla (Type 2),ChargePoint,,,"14 Darling Dr, Sydney NSW 2000, Australia",2000
+-32.9239076,151.7462861,AC (level 2),Kloster Nissan,NSW,1,J-1772,,,,"Tudor St, Hamilton DC NSW 2303, Australia",2303
+-33.7760506,151.1222793,DC (level 3),Macquarie Centre - Chargepoint,NSW,2,Both CHAdeMO & CCS Combo 2/SAE,ChargePoint,6.6,,"63 Talavera Rd, Macquarie Park NSW 2113, Australia",2113
+-33.8842625,151.203022,AC (level 2),Mercure Hotel,NSW,1,Tesla (Type 2),ChargePoint,,,"Shop 1/820 George St, Sydney NSW 2000, Australia",2000
+-34.4499343,150.4519611,AC (level 2),Mittagong Visitor Information Centre,NSW,1,Type 2,EVUp,6.6,,"70 Main St, Mittagong NSW 2575, Australia",2575
+-33.3934017,151.3293208,DC (level 3),Narara Ecovillage Coffee Cart,NSW,1,Both CHAdeMO & CCS Combo 2/SAE,,,,"30 Gugandi Rd, Narara NSW 2250, Australia",2250
+-33.8269518,151.199066,DC (level 3),Nicholson St Carpark,NSW,1,Both CHAdeMO & CCS Combo 2/SAE,,,,"19 Nicholson St, Wollstonecraft NSW 2065, Australia",2065
+-33.7991358,151.1786013,AC (level 2),North Shore BMW,NSW,2,Type 2,ChargePoint,,,"676 Pacific Hwy, Chatswood NSW 2067, Australia",2067
+-33.8199946,151.0262131,AC (level 2),"Parramatta Motor Group, Service Centre",NSW,1,Type 2,,,,"3 Grand Ave, Camellia NSW 2142, Australia",2142
+-33.8247653,151.0046269,AC (level 2),Parramatta Nissan,NSW,1,Tesla (Type 2),ChargePoint,,,"Raymond St & Church St, Parramatta NSW 2150, Australia",2150
+-33.7503559,151.2859224,AC (level 2),PCYC Carpark - 1,NSW,2,Tesla (Type 2),ChargePoint,6.6,,"42-46 Kingsway, Dee Why NSW 2099, Australia",2099
+-33.9799572,151.2513183,AC (level 2),Prince Henry Centre,NSW,1,Type 2,,,,"Little Bay Beach, 4R Coast Hospital Rd, Little Bay NSW 2036, Australia",2036
+-33.8351248,151.084473,AC (level 2),Rhodes Waterside,NSW,1,Tesla (Type 2),,,,"1 Rider Blvd, Rhodes NSW 2138, Australia",2138
+-33.6906736,150.9258319,AC (level 2),Rouse Hill Town Centre - Purple Car Park,NSW,2,Type 2,ChargePoint,6.6,,"72 Civic Way, Rouse Hill NSW 2155, Australia",2155
+-33.7930797,151.2643177,DC (level 3),Stockland Balgowlah,NSW,3,Tesla (Supercharger),ChargePoint,6.6,,"197-215 Condamine St, Balgowlah NSW 2093, Australia",2093
+-33.7590552,150.9915552,AC (level 2),Stockland Baulkham Hills Mall,NSW,2,Tesla (Type 2),ChargePoint,,,"375 Windsor Rd, Baulkham Hills NSW 2153, Australia",2153
+-33.8236017,151.2097047,AC (level 2),Stockland Cammeray,NSW,1,J-1772,ChargePoint,,,"450 Miller St, Cammeray NSW 2062, Australia",2062
+-32.1995922,152.5200713,AC (level 2),Stockland Forster,NSW,2,Type 2,ChargePoint,6.6,,"123 Breese Parade, Forster NSW 2428, Australia",2428
+-32.9343229,151.6421833,AC (level 2),Stockland Glendale,NSW,1,J-1772,,,,"387 Lake Rd, Glendale NSW 2285, Australia",2285
+-32.7607519,151.5907354,AC (level 2),Stockland Green Hills,NSW,2,Tesla (Type 2),ChargePoint,,,"12 Mitchell Dr, East Maitland NSW 2323, Australia",2323
+-32.9027533,151.6902806,AC (level 2),Stockland Jesmond,NSW,1,Type 2,,,,"28 Blue Gum Rd, Jesmond NSW 2299, Australia",2299
+-34.56286,150.8402774,DC (level 3),Stockland Shellharbour - East,NSW,2,Both CHAdeMO & CCS Combo 2/SAE,ChargePoint,,,"211 Lake Entrance Rd, Shellharbour City Centre NSW 2529, Australia",2529
+-34.5649659,150.840232,AC (level 2),Stockland Shellharbour - West,NSW,2,J-1772,ChargePoint,,,"Ground, Stockland Shellharbour, 211 Lake Entrance Rd, Shellharbour NSW 2529, Australia",2529
+-27.6163325,153.1235879,AC (level 2),Suzi Auto Services & OZ DIY EV,QLD,1,Type 2,,,,"3339 Pacific Hwy, Underwood QLD 4119, Australia",4119
+-33.8705139,151.1187607,DC (level 3),Sydney City Traders,NSW,1,Both CHAdeMO & CCS Combo 2/SAE,,,,"153 Parramatta Rd, Five Dock NSW 2046, Australia",2046
+-33.8631454,151.0718938,DC (level 3),Sydney Markets,NSW,1,Tesla (Supercharger),,,,"250/318 Parramatta Rd, Homebush West NSW 2140, Australia",2140
+-33.860054,151.0712501,AC (level 2),Sydney Markets,NSW,2,Type 2,,,,"250/318 Parramatta Rd, Homebush West NSW 2140, Australia",2140
+-33.6774245,150.2815125,AC (level 2),The Hydro Majestic Hotel Blue Mountains,NSW,1,Type 2,,,,"52-88 Great Western Hwy, Medlow Bath NSW 2780, Australia",2780
+-31.4309607,152.918799,DC (level 3),The Observatory Port Macquarie,NSW,2,Tesla (Supercharger),,,,"40 William St, Port Macquarie NSW 2444, Australia",2444
+-33.8761055,151.1783737,AC (level 2),Tramsheds Harold Park,NSW,1,Tesla (Type 2),,,,"1 Dalgal Way, Forest Lodge NSW 2037, Australia",2037
+-33.7467694,150.9028037,AC (level 2),Visionstream,NSW,2,Type 2,ChargePoint,6.6,,"20 Bowmans Rd, Kings Park NSW 2148, Australia",2148
+-33.942461,151.0937237,DC (level 3),Visionstream Kingsgrove Office Carpark,NSW,2,Both CHAdeMO & CCS Combo 2/SAE,ChargePoint,,,"111 Vanessa St, Kingsgrove NSW 2208, Australia",2208
+-33.9113775,150.935893,AC (level 2),Volvo Cars Liverpool,NSW,1,Tesla (Type 2),,,,"13 Hume Hwy, Warwick Farm NSW 2170, Australia",2170
+-33.8930533,151.2512645,DC (level 3),Westfield Bondi Junction - Car Park P3,NSW,4,Both CHAdeMO & CCS Combo 2/SAE,ChargePoint,6.6,,"13 Waverley St, Bondi Junction NSW 2022, Australia",2022
+-33.8915695,151.2505012,AC (level 2),Westfield Bondi Junction - Valet Parking,NSW,2,Tesla (Type 2),ChargePoint,,,"500 Oxford St, Bondi Junction NSW 2022, Australia",2022
+-33.7967682,151.1828639,AC (level 2),Westfield Chatswood Underground Car Park,NSW,4,Tesla (Type 2),ChargePoint,6.6,,"1 Anderson St, Chatswood NSW 2067, Australia",2067
+-34.0355512,151.1006368,AC (level 2),Westfield Miranda,NSW,4,Tesla (Type 2),ChargePoint,,,"600 Kingsway, Miranda NSW 2228, Australia",2228
+-33.8221879,151.0038102,AC (level 2),Westfield Parramatta,NSW,4,Tesla (Type 2),ChargePoint,,,"59 Church St, Parramatta NSW 2150, Australia",2150
+-33.869167,151.2087416,AC (level 2),Westfield Sydney Central Plaza,NSW,1,Tesla (Type 2),,,,"135 King St, Sydney NSW 2000, Australia",2000
+-33.7703548,151.2661042,AC (level 2),Westfield Warringah Mall,NSW,4,J-1772,ChargePoint,,,"Condamine St & Old Pittwater Rd, North Manly NSW 2100, Australia",2100
+-33.9761725,150.8124232,AC (level 2),Willowdale Shopping Centre,NSW,2,Type 2,ChargePoint,,,"5 Willowdale Dr, Denham Court NSW 2565, Australia",2565
+-34.4234883,150.8922583,AC (level 2),Wollongong Central - P1 Basement,NSW,1,Tesla (Type 2),,,,"71 Market St, Wollongong NSW 2500, Australia",2500
+-33.9518884,150.8553024,DC (level 3),Woolworths - Prestons,NSW,4,Both CHAdeMO & CCS Combo 2/SAE,ChargePoint,,,"1975 Camden Valley Way, Prestons NSW 2170, Australia",2170
+-33.4186983,149.5867887,AC (level 2),Bathurst Supercharger,NSW,6,Type 2,Supercharger,120,Tesla,"1 Kendall Ave, Bathurst NSW 2795, Australia",2795
+-34.8081727,150.6362791,AC (level 2),Berry Supercharger,NSW,6,Type 2,Supercharger,120,Tesla,"640 Princes Hwy, Jaspers Brush NSW 2535, Australia",2535
+-33.3129437,151.4218481,AC (level 2),Central Coast Supercharger,NSW,6,Tesla (Type 2),Supercharger,120,Tesla,"Wyong Rd & Bryant Dr, Tuggerah NSW 2259, Australia",2259
+-30.2826558,153.1314176,AC (level 2),Coffs Harbour Supercharger,NSW,6,Tesla (Type 2),Supercharger,120,Tesla,"253 Pacific Hwy, Coffs Harbour NSW 2450, Australia",2450
+-36.236015,149.1261314,AC (level 2),Cooma Supercharger,NSW,4,Tesla (Type 2),Supercharger,120,Tesla,"97 Commissioner St, Cooma NSW 2630, Australia",2630
+-32.249559,148.6100591,AC (level 2),Dubbo Supercharger,NSW,4,Tesla (Type 2),Supercharger,120,Tesla,"76 Wingewarra St, Dubbo NSW 2830, Australia",2830
+-34.7559863,149.720717,DC (level 3),Goulburn Supercharger,NSW,8,Tesla (Supercharger),Supercharger,120,,"201 Sloane St, Goulburn NSW 2580, Australia",2580
+-35.001912,148.111399,DC (level 3),Gundagai Supercharger,NSW,6,Both CHAdeMO & CCS Combo 2/SAE,Supercharger,120,Tesla,"Snake Gully, 34 Annie Pyers Dr, Gundagai NSW 2722, Australia",2722
+-32.7877473,151.7278323,AC (level 2),Heatherbrae Supercharger,NSW,6,Tesla (Type 2),Supercharger,120,Tesla,"2285 Pacific Hwy, Heatherbrae NSW 2324, Australia",2324
+-32.4483139,150.8314993,AC (level 2),Hollydene Supercharger,NSW,6,Type 2,Supercharger,120,Tesla,"3483 Golden Hwy, Jerrys Plains NSW 2330, Australia",2330
+-28.7498479,153.5331633,AC (level 2),Knockrow Supercharger,NSW,6,Type 2,Supercharger,120,Tesla,"419 Hinterland Way, Knockrow NSW 2479, Australia",2479
+-29.422442,153.2399732,AC (level 2),Maclean Supercharger,NSW,4,Tesla (Type 2),Supercharger,120,,"56 Morpeth St, Harwood NSW 2465, Australia",2465
+-33.7772778,151.1236512,AC (level 2),Macquarie Park Supercharger,NSW,10,Type 2,Supercharger,120,Tesla,"55-61 Talavera Rd, Macquarie Park NSW 2113, Australia",2113
+-36.2224529,150.1277229,AC (level 2),Narooma Supercharger,NSW,4,Tesla (Type 2),Supercharger,120,Tesla,"183 Princes Hwy, Narooma NSW 2546, Australia",2546
+-31.4358331,152.8236011,DC (level 3),Port Macquarie Supercharger,NSW,6,Both CHAdeMO & CCS Combo 2/SAE,Supercharger,120,Tesla,"10 Winery Dr, Port Macquarie NSW 2444, Australia",2444
+-33.8829417,151.1941191,AC (level 2),Sydney Broadway Supercharger,NSW,8,Tesla (Type 2),Supercharger,120,Tesla,"1 Bay St, Glebe NSW 2037, Australia",2037
+-31.1012565,150.9168989,AC (level 2),Tamworth Supercharger,NSW,4,Tesla (Type 2),Supercharger,120,Tesla,"25 Park St, West Tamworth NSW 2340, Australia",2340
+-33.3927632,149.5188753,AC (level 2),Abercrombie House,NSW,2,Type 2,Tesla Destination,22,Tesla,"311 Ophir Rd, Stewarts Mount NSW 2795, Australia",2795
+-32.2522027,148.5898971,AC (level 2),Akuna Motor Inn & Apartments,NSW,1,J-1772,Tesla Destination,22,Tesla,"109 Whylandra St, Dubbo NSW 2830, Australia",2830
+-31.9028943,152.4776342,AC (level 2),Alabaster Motor Inn,NSW,2,Tesla (Type 2),Tesla Destination,22,Tesla,"23 Oxley St, Taree NSW 2430, Australia",2430
+-33.8019653,150.8709764,AC (level 2),Alpha Hotel Eastern Creek,NSW,2,Type 2,Tesla Destination,22,Tesla,"1 Peter Brock Dr, Eastern Creek NSW 2766, Australia",2766
+-32.7199671,152.1356612,AC (level 2),Amarna Luxury Beach Resort,NSW,2,Tesla (Type 2),Tesla Destination,5,,"16 Christmas Bush Ave, Nelson Bay NSW 2315, Australia",2315
+-31.4073033,152.9008719,AC (level 2),Ana Mandara Luxury Bed & Breakfast,NSW,2,J-1772,Tesla Destination,14,,"152 Settlement Point Rd, Port Macquarie NSW 2444, Australia",2444
+-36.2198467,150.133492,AC (level 2),Anchors Aweigh Narooma,NSW,2,Type 2,Tesla Destination,22,Tesla,"5 Tilba St, Narooma NSW 2546, Australia",2546
+-30.4952258,151.6694665,AC (level 2),Armidale Motel,NSW,2,J-1772,Tesla Destination,11,Tesla,"66 Glen Innes Rd, Armidale NSW 2350, Australia",2350
+-31.4312459,152.8968271,AC (level 2),Aston Hill Motor Lodge,NSW,2,Type 2,Tesla Destination,22,Tesla,"15 Mort St, Port Macquarie NSW 2444, Australia",2444
+-33.8093977,151.1507426,AC (level 2),ATI Australia,NSW,1,Type 2,,,Tesla,"5/27 Mars Rd, Lane Cove West NSW 2066, Australia",2066
+-33.806416,150.9031472,AC (level 2),Atura Blacktown,NSW,1,J-1772,Tesla Destination,22,Tesla,"32 Cricketers Arms Rd, Prospect NSW 2148, Australia",2148
+-36.0798273,146.9123515,AC (level 2),Atura Hotel Albury,NSW,1,Type 2,Tesla Destination,8,Tesla,"Country Comfort Hotel, 648 Dean St, Albury NSW 2640, Australia",2640
+-33.8327117,151.0215668,AC (level 2),Australasian Sports Centre Parramatta,NSW,2,Tesla (Type 2),Tesla Destination,22,,"20 Wentworth St, Clyde NSW 2142, Australia",2142
+-34.8503176,150.7478922,AC (level 2),Bangalay Luxury Villas,NSW,4,Type 2,Tesla Destination,22,Tesla,"30 Staples St, Shoalhaven Heads NSW 2535, Australia",2535
+-34.7414729,150.45349,DC (level 3),Banksia Park cottages,NSW,2,Both CHAdeMO & CCS Combo 2/SAE,Tesla Destination,6,Tesla,"114 Radiata Rd, Kangaroo Valley NSW 2577, Australia",2577
+-33.9199788,151.0333375,AC (level 2),Bankstown Sports Club,NSW,2,Tesla (Type 2),Tesla Destination,4,Tesla,"8 Greenfield Parade, Bankstown NSW 2200, Australia",2200
+-32.7111973,152.0722165,AC (level 2),Bannisters,NSW,2,Type 2,Tesla Destination,14,,"Salamander Shores Hotel, 147 Soldiers Point Rd, Soldiers Point NSW 2317, Australia",2317
+-35.3222306,150.4849315,AC (level 2),Bannisters by the Sea,NSW,1,Tesla (Type 2),Tesla Destination,22,Tesla,"191 Mitchell Parade, Mollymook Beach NSW 2539, Australia",2539
+-35.3250315,150.4763976,AC (level 2),Bannisters Pavilion,NSW,1,Tesla (Type 2),Tesla Destination,22,Tesla,"87 Tallwood Ave, Mollymook Beach NSW 2539, Australia",2539
+-35.7094784,150.1790805,AC (level 2),Batemans Bay Soldiers Club,NSW,1,Tesla (Type 2),Tesla Destination,22,Tesla,"6 Beach Rd, Batemans Bay NSW 2536, Australia",2536
+-29.4753381,149.8456657,AC (level 2),Baths Motel,NSW,1,Tesla (Type 2),Tesla Destination,8,Tesla,"339 Warialda St, Moree NSW 2400, Australia",2400
+-33.4259189,149.5817468,DC (level 3),Bathurst Rail Museum,NSW,1,Both CHAdeMO & CCS Combo 2/SAE,Tesla Destination,22,,"126 Havannah St, Bathurst NSW 2795, Australia",2795
+-33.7632734,151.0042477,DC (level 3),Baulkham Hills Sports Club,NSW,1,Tesla (Supercharger),Tesla Destination,2,,"11 Renown Rd, Baulkham Hills NSW 2153, Australia",2153
+-28.2899513,153.5747799,AC (level 2),Beach House on She-Oak,NSW,1,J-1772,Tesla Destination,5,Tesla,"18 She-Oak Ln, Casuarina NSW 2487, Australia",2487
+-28.6418194,153.6146694,DC (level 3),Beach Suites Byron Bay,NSW,2,Both CHAdeMO & CCS Combo 2/SAE,Tesla Destination,5,Tesla,"20 Bay St, Byron Bay NSW 2481, Australia",2481
+-30.4449023,152.8845091,AC (level 2),Bellingen Valley Lodge,NSW,2,J-1772,,11,,"1381 Waterfall Way, Bellingen NSW 2454, Australia",2454
+-33.5205618,151.3746149,AC (level 2),Bells at Killcare Boutique Hotel,NSW,1,Tesla (Type 2),Tesla Destination,22,Tesla,"107 The Scenic Rd, Killcare Heights NSW 2257, Australia",2257
+-34.4659347,150.3616268,AC (level 2),Bendooley Estate,NSW,2,Tesla (Type 2),Tesla Destination,22,Tesla,"Bendooley, 3020 Old Hume Hwy, Berrima NSW 2577, Australia",2577
+-35.2087147,150.5488103,AC (level 2),Berrara Beach Holiday Chalets,NSW,2,Type 2,Tesla Destination,22,Tesla,"22 Berrara Rd, Berrara NSW 2540, Australia",2540
+-32.2550201,148.6102601,AC (level 2),Best Western Bluegum Motel,NSW,2,Tesla (Type 2),Tesla Destination,14,Tesla,"109 Cobra St, Dubbo NSW 2830, Australia",2830
+-32.9568871,151.7013414,AC (level 2),Best Western PLUS Apollo International,NSW,2,Type 2,Tesla Destination,4,Tesla,"290 Pacific Hwy, Charlestown NSW 2290, Australia",2290
+-34.7471604,149.7294597,AC (level 2),Best Western Plus Goulburn,NSW,2,J-1772,Tesla Destination,22,Tesla,"77 Lagoon St, Goulburn NSW 2580, Australia",2580
+-33.708221,150.3270623,DC (level 3),Bethany Manor,NSW,1,Tesla (Supercharger),Tesla Destination,3,Tesla,"8-12 Eastview Ave, Leura NSW 2780, Australia",2780
+-33.8555224,151.1621054,AC (level 2),Birkenhead Point Outlet Centre,NSW,3,Tesla (Type 2),Tesla Destination,22,,"19 Roseby St, Drummoyne NSW 2047, Australia",2047
+-33.7702867,150.9059341,AC (level 2),Blacktown Westpoint Shopping Centre,NSW,4,Type 2,Tesla Destination,,,"17 Patrick St, Blacktown NSW 2148, Australia",2148
+-33.5050479,151.3372659,AC (level 2),Blackwall Mountain Airbnb,NSW,1,Tesla (Type 2),,,,"2 Koonora Ave, Blackwall NSW 2256, Australia",2256
+-32.5634047,149.6199933,DC (level 3),Blue Wren Wines,NSW,1,Both CHAdeMO & CCS Combo 2/SAE,Tesla Destination,22,Tesla,"433 Ulan Rd, Eurunderee NSW 2850, Australia",2850
+-36.0867598,150.0495483,AC (level 2),Bodalla Dairy Shed and Cheese Factory,NSW,2,Tesla (Type 2),Tesla Destination,4,Tesla,"52 Princes Hwy, Bodalla NSW 2545, Australia",2545
+-33.3154277,149.0221838,AC (level 2),Borrodell Vineyard Accommodation,NSW,2,Type 2,Tesla Destination,22,Tesla,"Borrodell, 298 Lake Canobolas Rd, Canobolas NSW 2800, Australia",2800
+-30.0894031,145.9424975,AC (level 2),Bourke Riverside Motel,NSW,2,J-1772,Tesla Destination,22,Tesla,"Mitchell St, Bourke NSW 2840, Australia",2840
+-33.8827784,151.1948135,DC (level 3),Broadway Shopping Centre,NSW,3,Tesla (Supercharger),Tesla Destination,22,,"31 Bay St, Glebe NSW 2037, Australia",2037
+-32.7760644,151.2996067,AC (level 2),Brokenwood Wines,NSW,2,Tesla (Type 2),Tesla Destination,22,Tesla,"Brokenwood Wines, 401-427 McDonalds Rd, Pokolbin NSW 2320, Australia",2320
+-28.5398912,153.5521886,AC (level 2),Brunswick River Inn,NSW,1,Tesla (Type 2),Tesla Destination,3,Tesla,"2 The Terrace, Brunswick Heads NSW 2483, Australia",2483
+-28.67874,153.610284,AC (level 2),Byron at Byron Resort and Spa,NSW,2,Tesla (Type 2),Tesla Destination,22,Tesla,"77 Broken Head Rd, Suffolk Park NSW 2481, Australia",2481
+-28.6389004,153.6037346,AC (level 2),Byron Cove Beach House,NSW,2,Tesla (Type 2),Tesla Destination,3,Tesla,"10 Kendall St, Byron Bay NSW 2481, Australia",2481
+-28.6395098,153.6043671,AC (level 2),Byron Stay,NSW,1,Tesla (Type 2),,,Tesla,"67 Shirley St, Byron Bay NSW 2481, Australia",2481
+-32.5423289,151.5011005,AC (level 2),Cabins in the Clouds,NSW,2,Tesla (Type 2),Tesla Destination,22,Tesla,"424 Moonabung Rd, Vacy NSW 2421, Australia",2421
+-33.8966772,150.9379107,AC (level 2),Cabramatta Hotel,NSW,2,J-1772,Tesla Destination,4,,"224 Railway Pde, Cabramatta NSW 2166, Australia",2166
+-34.0424537,151.0489528,DC (level 3),Cafe Loftus,NSW,1,Tesla (Supercharger),,,,"71 National Ave, Loftus NSW 2232, Australia",2232
+-36.419857,150.063318,AC (level 2),Captain\u2019s Quarters Townhouses Bermagui,NSW,2,Type 2,Tesla Destination,7,,"The Captains Quarters, 6 George St, Bermagui NSW 2546, Australia",2546
+-28.8624736,153.0493516,AC (level 2),Casino RSM,NSW,1,Tesla (Type 2),Tesla Destination,5,,"162 Canterbury St, Casino NSW 2470, Australia",2470
+-33.7296502,151.0068965,AC (level 2),Castle Towers Shopping Centre,NSW,3,Type 2,Tesla Destination,22,Tesla,"6/14 Castle St, Castle Hill NSW 2154, Australia",2154
+-33.3677873,151.4753987,AC (level 2),Central Jetty Motel,NSW,2,Tesla (Type 2),Tesla Destination,22,,"509-517 The Entrance Rd, Long Jetty NSW 2261, Australia",2261
+-33.7209507,151.043454,DC (level 3),Cherrybrook Village,NSW,2,Both CHAdeMO & CCS Combo 2/SAE,Tesla Destination,22,,"Shop 42/47 Shepherds Dr, Cherrybrook NSW 2126, Australia",2126
+-34.0946142,142.0388599,AC (level 2),Coomealla Motel,NSW,1,Tesla (Type 2),,,,"1 Matong St, Dareton NSW 2717, Australia",2717
+-33.3836595,148.0098383,AC (level 2),Country Mile Motor Inn,NSW,2,J-1772,Tesla Destination,22,Tesla,"Country Mile Motor Inn, 14 Cross St, Forbes NSW 2871, Australia",2871
+-33.9224589,151.2558206,AC (level 2),Crowne Plaza Coogee,NSW,2,Type 2,Tesla Destination,22,,"242 Arden St, Coogee NSW 2034, Australia",2034
+-33.8739184,151.2040542,AC (level 2),Crowne Plaza Darling Harbour,NSW,3,Type 2,Tesla Destination,22,,"58 Bathurst St, Sydney NSW 2000, Australia",2000
+-33.6094184,150.8073593,AC (level 2),Crowne Plaza Hawkesbury Valley,NSW,2,Tesla (Type 2),Tesla Destination,6,Tesla,"61 Hawkesbury Valley Way, Windsor NSW 2756, Australia",2756
+-32.7811478,151.3487977,AC (level 2),Crowne Plaza Hunter Valley,NSW,1,J-1772,,,,"430 Wine Country Dr, Lovedale NSW 2325, Australia",2325
+-33.448629,151.4452447,DC (level 3),Crowne Plaza Terrigal,NSW,3,Both CHAdeMO & CCS Combo 2/SAE,,,Tesla,"Pine Tree Ln, Terrigal NSW 2260, Australia",2260
+-32.7857778,151.2851456,AC (level 2),"Cypress Lakes Resort, Golf and Country Club",NSW,2,Tesla (Type 2),Tesla Destination,7,,"Vintage Ave, Pokolbin NSW 2320, Australia",2320
+-36.9418372,149.9066231,AC (level 2),Discovery Parks Pambula Beach,NSW,1,Type 2,Tesla Destination,22,,"1 Pambula Beach Rd, Pambula Beach NSW 2549, Australia",2549
+-29.235626,152.0129861,AC (level 2),Donegal Farmstay,NSW,2,Tesla (Type 2),Tesla Destination,22,,"103 Sandy Flat Rd, Sandy Flat NSW 2372, Australia",2372
+-33.272863,149.0163655,AC (level 2),Dragonfly Cottages,NSW,1,Tesla (Type 2),Tesla Destination,22,,"92 Heifer Station Ln, Borenore NSW 2800, Australia",2800
+-33.8356839,148.6803744,AC (level 2),Driver Reviver Car Park,NSW,2,Tesla (Type 2),Tesla Destination,22,Tesla,"2 Lachlan Valley Way, Cowra NSW 2794, Australia",2794
+-33.9052704,151.2130888,AC (level 2),East Village Shopping Centre,NSW,3,Tesla (Type 2),Tesla Destination,22,Tritium,"4 Defries Ave, Zetland NSW 2017, Australia",2017
+-29.4707544,149.8468883,AC (level 2),Econo Lodge Moree Spa Motor Inn,NSW,2,Type 2,Tesla Destination,5,,"21 Alice St, Moree NSW 2400, Australia",2400
+-33.780526,151.1340844,DC (level 3),Eden Gardens,NSW,2,Both CHAdeMO & CCS Combo 2/SAE,Tesla Destination,3,Tesla,"307 Lane Cove Rd, Macquarie Park NSW 2113, Australia",2113
+-35.3326444,148.3176869,AC (level 2),Elm Cottage Tumut,NSW,2,Tesla (Type 2),Tesla Destination,22,Tesla,"722 Little River Rd, Little River NSW 2720, Australia",2720
+-31.9601917,141.4453934,AC (level 2),Emaroo Cottages,NSW,1,Type 2,,,,"18 Tramway Terrace, Broken Hill NSW 2880, Australia",2880
+-33.2278234,150.2080922,DC (level 3),Emirates One & Only Wolgan Valley,NSW,2,Both CHAdeMO & CCS Combo 2/SAE,Tesla Destination,6,,"2600 Wolgan Rd, Wolgan Valley NSW 2790, Australia",2790
+-33.4393717,151.3911387,AC (level 2),Erina Fair,NSW,2,Tesla (Type 2),,,Tesla,"74 Karalta Rd, Erina NSW 2250, Australia",2250
+-29.694289,152.9382181,AC (level 2),Fitzroy Motel Inn,NSW,2,Type 2,Tesla Destination,22,Tesla,"27 Fitzroy St, Grafton NSW 2460, Australia",2460
+-29.7381427,151.7376761,AC (level 2),Glen Innes Visitor Information Centre,NSW,2,Type 2,Tesla Destination,22,Tesla,"152 Church St, Glen Innes NSW 2370, Australia",2370
+-33.8501441,151.2182433,AC (level 2),Glenferrie Lodge Kirribilli,NSW,2,Tesla (Type 2),Tesla Destination,22,Tesla,"12A Carabella St, Kirribilli NSW 2061, Australia",2061
+-32.7461755,151.0732014,AC (level 2),Glenguin Estate & Vineyard,NSW,2,Type 2,Tesla Destination,22,Tesla,"997 Milbrodale Rd, Broke NSW 2330, Australia",2330
+-29.000386,152.023975,AC (level 2),Glenrock Gardens,NSW,2,Tesla (Type 2),Tesla Destination,6,Tesla,"84 Robinsons Ln, Tenterfield NSW 2372, Australia",2372
+-33.3926197,151.3535782,AC (level 2),Gosford Inn Motel,NSW,2,J-1772,Tesla Destination,22,Tesla,"733 Pacific Hwy, Narara NSW 2250, Australia",2250
+-32.9903224,151.1305038,DC (level 3),Great Northern Trading Post,NSW,1,Tesla (Supercharger),,,,"Old Northern Trading Post, 3718 Great N Rd, Laguna NSW 2325, Australia",2325
+-33.8406884,151.2075778,AC (level 2),Greenwood Plaza,NSW,3,Tesla (Type 2),Tesla Destination,22,Tesla,"36 Blue St, North Sydney NSW 2060, Australia",2060
+-34.2891433,146.050738,AC (level 2),Griffith Visitor Information Centre,NSW,2,Tesla (Type 2),Tesla Destination,22,,"1 Jondaryan Ave, Griffith NSW 2680, Australia",2680
+-28.4033923,153.3489445,AC (level 2),Gymea Eco Retreat & Spa,NSW,2,Tesla (Type 2),Tesla Destination,22,Tesla,"128 Bonnydoon Rd, Smiths Creek NSW 2484, Australia",2484
+-31.0904667,150.9273942,AC (level 2),Hands of Fame Park,NSW,2,Tesla (Type 2),Tesla Destination,22,,"2 Kable Ave, Tamworth NSW 2340, Australia",2340
+-33.7792946,151.292454,AC (level 2),Harbord Diggers,NSW,4,Type 2,Tesla Destination,22,Tesla,"88 Evans St, Freshwater NSW 2096, Australia",2096
+-33.2592048,149.0038317,AC (level 2),Heifer Station Wines,NSW,2,Type 2,Tesla Destination,22,Tesla,"1034 The Escort Way, Borenore NSW 2800, Australia",2800
+-36.4105901,148.7199593,AC (level 2),Highfields Chalet,NSW,1,Type 2,,,,"Avonside NSW 2628, Australia",2628
+-33.3111454,149.1433758,AC (level 2),Highland Heritage Estate,NSW,2,Type 2,Tesla Destination,17,Tesla,"Highland Heritage Estate, 4968 Mitchell Hwy, Orange NSW 2800, Australia",2800
+-33.6886646,151.2236545,AC (level 2),Hills Flower Market,NSW,2,Tesla (Type 2),Tesla Destination,22,Tesla,"287 Mona Vale Rd, Terrey Hills NSW 2084, Australia",2084
+-35.1964853,147.8178208,DC (level 3),Hillview Farmstay,NSW,2,Both CHAdeMO & CCS Combo 2/SAE,Tesla Destination,22,Tesla,"3241 Hume Hwy, Mount Adrah NSW 2729, Australia",2729
+-33.8720109,151.207892,DC (level 3),Hilton Sydney,NSW,4,Both CHAdeMO & CCS Combo 2/SAE,Tesla Destination,22,,"259 Pitt St, Sydney NSW 2000, Australia",2000
+-35.9841874,146.6432731,AC (level 2),Howlong Golf Resort,NSW,2,Type 2,Tesla Destination,22,Tesla,"186 Golf Club Dr, Howlong NSW 2643, Australia",2643
+-32.8251403,151.3264179,DC (level 3),Hunter Valley Cooperage B,NSW,2,Both CHAdeMO & CCS Combo 2/SAE,Tesla Destination,17,,"41 Oakey Creek Rd, Cessnock NSW 2325, Australia",2325
+-32.7290635,151.2591116,DC (level 3),Hunter Valley Resort,NSW,2,Both CHAdeMO & CCS Combo 2/SAE,Tesla Destination,17,Tesla,"Hermitage Rd & Mistletoe Ln, Pokolbin NSW 2320, Australia",2320
+-33.3524924,151.4889255,AC (level 2),IBIS Styles The Entrance,NSW,1,Tesla (Type 2),,,Tesla,"315 Central Coast Hwy, Long Jetty NSW 2261, Australia",2261
+-33.8628857,151.2123616,AC (level 2),Intercontinental Hotel,NSW,2,Type 2,Tesla Destination,22,,"117 Macquarie St, Sydney NSW 2000, Australia",2000
+-33.8764552,151.2430418,AC (level 2),Intercontinental Sydney Double Bay,NSW,1,Tesla (Type 2),,,,"20/26 Cross St, Double Bay NSW 2028, Australia",2028
+-33.8207078,150.0214396,AC (level 2),Jenolan Caves House,NSW,2,Tesla (Type 2),Tesla Destination,4,,"4654 Jenolan Caves Rd, Jenolan NSW 2790, Australia",2790
+-34.4235692,150.2149038,DC (level 3),Joadja Distillery,NSW,1,Tesla (Supercharger),,,,"1714 Joadja Rd, Joadja NSW 2575, Australia",2575
+-34.4235692,150.2149038,AC (level 2),Joadja Historic Site & Distillery,NSW,1,J-1772,Tesla Destination,22,,"1760 Joadja Rd, Joadja NSW 2575, Australia",2575
+-32.8602711,149.9734874,DC (level 3),Kandos Museum,NSW,1,Tesla (Supercharger),Tesla Destination,22,Tesla,"22 Buchanan St, Kandos NSW 2848, Australia",2848
+-31.6345965,152.7237084,AC (level 2),Kew Motel,NSW,2,Type 2,Tesla Destination,4,,"Kew Court Motel, 144 Nancy Bird Walton Dr, Kew NSW 2439, Australia",2439
+-33.3608295,151.4989637,AC (level 2),Kim's Beachside Retreat,NSW,2,Tesla (Type 2),Tesla Destination,4,Tesla,"16 Charlton St, Toowoon Bay NSW 2261, Australia",2261
+-32.8086229,151.3054373,AC (level 2),Kirkton Park Hunter Valley,NSW,2,Tesla (Type 2),Tesla Destination,6,Tesla,"336 Oakey Creek Rd, Pokolbin NSW 2320, Australia",2320
+-31.4347033,152.8981371,AC (level 2),Koala Tree Motel,NSW,2,Type 2,Tesla Destination,22,Tesla,"Koala Tree Motel, 179 Gordon St, Port Macquarie NSW 2444, Australia",2444
+-33.9624658,151.1326345,AC (level 2),Kogarah Town Centre,NSW,2,Tesla (Type 2),Tesla Destination,6,Tesla,"1/9 Railway Parade, Kogarah NSW 2217, Australia",2217
+-36.452248,148.4673822,AC (level 2),Lake Crackenback Resort,NSW,2,Type 2,Tesla Destination,22,Tesla,"1454 Alpine Way, Crackenback NSW 2627, Australia",2627
+-34.984996,149.383795,AC (level 2),Lake George Winery,NSW,1,Type 2,,,,"Federal Hwy, Lake George NSW 2581, Australia",2581
+-28.8129865,153.275264,AC (level 2),Lismore Bounty Motel,NSW,2,Type 2,Tesla Destination,11,Tesla,"Bounty Motel, 241 Keen St, Lismore NSW 2480, Australia",2480
+-33.7219754,150.3716578,AC (level 2),Luxury Blue Mountains Accommodation,NSW,2,Tesla (Type 2),Tesla Destination,5,,"6 The Avenue, Wentworth Falls NSW 2782, Australia",2782
+-34.0748763,150.7976685,AC (level 2),Macarthur Square Shopping Centre,NSW,2,Tesla (Type 2),Tesla Destination,22,Tesla,"200 Gilchrist Dr, Campbelltown NSW 2560, Australia",2560
+-30.9797594,150.2577127,AC (level 2),Mackellar Motel,NSW,2,Type 2,Tesla Destination,17,Tesla,"342 Conadilly St, Gunnedah NSW 2380, Australia",2380
+-30.708589,152.9187168,AC (level 2),Mandarin Motel,NSW,1,J-1772,Tesla Destination,22,Tesla,"24 Princess St, Macksville NSW 2447, Australia",2447
+-33.8245423,151.0789793,AC (level 2),Marina Square Shopping Centre Wentworth Point,NSW,1,Type 2,Tesla Destination,22,,"5 Footbridge Bvd, Sydney Olympic Park NSW 2127, Australia",2127
+-28.3271389,153.3948305,AC (level 2),M-Arts Precinct Murwillumbah,NSW,2,Type 2,Tesla Destination,22,,"105 Wollumbin St, Murwillumbah NSW 2484, Australia",2484
+-28.6365833,153.580196,AC (level 2),McTavish Surf,NSW,1,Tesla (Type 2),Tesla Destination,22,,"91 Centennial Cct, Byron Bay NSW 2481, Australia",2481
+-36.1111595,144.7539036,AC (level 2),Meninya Palms Moama,NSW,2,Type 2,Tesla Destination,22,Tesla,"54-56 Meninya St, Moama NSW 2731, Australia",2731
+-34.4989528,150.4815589,AC (level 2),Milton Park Country House,NSW,1,Tesla (Type 2),Tesla Destination,8,Tesla,"200 Horderns Rd, Bowral NSW 2576, Australia",2576
+-34.3398882,146.0589659,DC (level 3),Mino + Co Wines Cellar Door,NSW,2,Both CHAdeMO & CCS Combo 2/SAE,Tesla Destination,22,,"113 Hanwood Ave, Hanwood NSW 2680, Australia",2680
+-33.8961195,151.1951555,AC (level 2),Mirvac South Eveleigh,NSW,1,Tesla (Type 2),Tesla Destination,22,,"2 Central Ave, Eveleigh NSW 2015, Australia",2015
+-35.3461969,150.4705258,AC (level 2),Mollymook Seascape Motel,NSW,2,Type 2,Tesla Destination,17,,"22 Princes Hwy, Mollymook NSW 2539, Australia",2539
+-35.339796,150.4728481,DC (level 3),Mollymook Surfbeach Motel,NSW,3,Both CHAdeMO & CCS Combo 2/SAE,Tesla Destination,22,Tesla,"2 Shepherd St, Mollymook NSW 2539, Australia",2539
+-35.9139953,150.0753668,AC (level 2),Moruya Golf Club,NSW,2,J-1772,Tesla Destination,11,,"28A Evans St, Moruya NSW 2537, Australia",2537
+-34.8402325,150.7320802,AC (level 2),Mountain Ridge Wines,NSW,2,Tesla (Type 2),Tesla Destination,7,,"11 Coolangatta Rd, Coolangatta NSW 2535, Australia",2535
+-32.5903292,149.5853481,AC (level 2),Mudgee Information Centre,NSW,1,Tesla (Type 2),Tesla Destination,11.5,Tesla,"84 Market St, Mudgee NSW 2850, Australia",2850
+-30.6542475,152.9877174,AC (level 2),Nambucca Plaza Shopping Centre,NSW,2,Tesla (Type 2),Tesla Destination,22,Tesla,"2191 Giinagay Way, Nambucca Heads NSW 2448, Australia",2448
+-29.7910481,151.1211823,DC (level 3),National Transport Museum Inverell,NSW,1,Both CHAdeMO & CCS Combo 2/SAE,,,,"11 Rifle Range Rd, Inverell NSW 2360, Australia",2360
+-32.7207476,152.1429882,AC (level 2),Nelson Resort & Conference Centre,NSW,2,Type 2,Tesla Destination,6,Tesla,"3 Government Rd, Nelson Bay NSW 2315, Australia",2315
+-31.4283576,152.9113522,AC (level 2),Northpoint Holiday Apartments,NSW,2,Tesla (Type 2),Tesla Destination,22,,"2 Murray St, Port Macquarie NSW 2444, Australia",2444
+-32.9292642,151.784893,AC (level 2),Novotel Newcastle Beach,NSW,1,Type 2,Tesla Destination,22,Tesla,"5 King St, Newcastle NSW 2300, Australia",2300
+-33.8817471,151.2027944,AC (level 2),Novotel Sydney Central,NSW,2,Tesla (Type 2),Tesla Destination,22,,"179 Thomas St, Haymarket NSW 2000, Australia",2000
+-32.758988,151.2523686,AC (level 2),Oakvale Wines,NSW,2,Type 2,Tesla Destination,22,Tesla,"1596 Broke Rd, Pokolbin NSW 2320, Australia",2320
+-33.7087606,149.857737,DC (level 3),Oberon Visitor Information Centre,NSW,2,Both CHAdeMO & CCS Combo 2/SAE,Tesla Destination,22,Tesla,"48 Ross St, Oberon NSW 2787, Australia",2787
+-29.0558102,152.0202551,AC (level 2),Old Council Chambers Luxury Accommodation,NSW,2,Tesla (Type 2),Tesla Destination,6,Tesla,"157 Manners St, Tenterfield NSW 2372, Australia",2372
+-32.2546157,148.6087193,AC (level 2),Orana Motel,NSW,2,J-1772,Tesla Destination,22,Tesla,"95 Cobra St, Dubbo NSW 2830, Australia",2830
+-30.2672222,153.1347222,AC (level 2),Pacific Bay Resort,NSW,2,Type 2,,,,"Cnr Pacific Hwy and, Bay Dr, Coffs Harbour NSW 2450, Australia",2450
+-33.8891245,151.2756383,DC (level 3),Pacific Bondi Beach,NSW,2,Tesla (Supercharger),Tesla Destination,22,,"180 Campbell Parade, Bondi Beach NSW 2026, Australia",2026
+-33.8557235,151.2097888,DC (level 3),Park Hyatt Sydney,NSW,2,Both CHAdeMO & CCS Combo 2/SAE,Tesla Destination,6,,"7 Hickson Rd, The Rocks NSW 2000, Australia",2000
+-33.9294123,151.1856578,AC (level 2),Park on King,NSW,2,Tesla (Type 2),Tesla Destination,22,,"338 King St, Mascot NSW 2020, Australia",2020
+-33.7503559,151.2859224,AC (level 2),PCYC Carpark - 1,NSW,1,Tesla (Type 2),Tesla Destination,22,,"42-46 Kingsway, Dee Why NSW 2099, Australia",2099
+-32.7211829,148.190703,AC (level 2),Peak Hill Caravan Park,NSW,1,Type 2,Tesla Destination,22,Tesla,"2 Ween St, Peak Hill NSW 2869, Australia",2869
+-32.7753762,151.3407758,AC (level 2),Peterson House,NSW,1,Type 2,Tesla Destination,22,Tesla,"Broke Rd & Wine Country Dr, Pokolbin NSW 2320, Australia",2320
+-30.5547643,151.6826632,AC (level 2),Petersons Armidale Winery & Guesthouse,NSW,1,J-1772,Tesla Destination,7,Tesla,"345 Dangarsleigh Rd, Armidale NSW 2350, Australia",2350
+-32.8334393,151.3041633,AC (level 2),Petersons Wines,NSW,1,Type 2,Tesla Destination,6,Tesla,"522 Mount View Rd, Cessnock NSW 2325, Australia",2325
+-32.5482247,149.6307106,AC (level 2),Petersons Wines,NSW,1,Type 2,Tesla Destination,8,Tesla,"6 Black Springs Rd, Eurunderee NSW 2850, Australia",2850
+-35.107578,149.2794567,DC (level 3),Petrichor Farm,NSW,1,Both CHAdeMO & CCS Combo 2/SAE,Tesla Destination,7,,"89 Haskins Way, Gundaroo NSW 2620, Australia",2620
+-33.85419,151.2081547,AC (level 2),Pier One Sydney Harbour,NSW,2,Type 2,Tesla Destination,22,,"11 Hickson Rd, Dawes Point NSW 2000, Australia",2000
+-28.3428005,153.4002885,AC (level 2),Poinciana Motel,NSW,2,J-1772,Tesla Destination,22,Tesla,"Gallery Motel, 453 Tweed Valley Way, South Murwillumbah NSW 2484, Australia",2484
+-32.051564,150.8671373,AC (level 2),Portman House,NSW,2,Type 2,Tesla Destination,22,Tesla,"205 Kelly St, Scone NSW 2337, Australia",2337
+-33.8762429,151.2125209,AC (level 2),Pullman Sydney Hyde Park,NSW,2,Tesla (Type 2),Tesla Destination,4,,"36 College St, Darlinghurst NSW 2010, Australia",2010
+-28.8681167,153.5886496,AC (level 2),Quality Hotel Ballina Beach Resort,NSW,2,Tesla (Type 2),Tesla Destination,22,Tesla,"1 Foster St, East Ballina NSW 2478, Australia",2478
+-30.5061822,151.6724328,AC (level 2),Quality Hotel Powerhouse,NSW,2,Tesla (Type 2),Tesla Destination,22,Tesla,"31 Marsh St, Armidale NSW 2350, Australia",2350
+-35.1306974,147.3401364,DC (level 3),Quality Hotel Rules Club Wagga,NSW,1,Both CHAdeMO & CCS Combo 2/SAE,Tesla Destination,22,,"188 Fernleigh Rd, Wagga Wagga NSW 2650, Australia",2650
+-33.8711794,151.2061077,DC (level 3),Queen Victoria Building - Valet Parking,NSW,2,Both CHAdeMO & CCS Combo 2/SAE,Tesla Destination,22,,"111 York St, Sydney NSW 2000, Australia",2000
+-28.5953327,153.226753,DC (level 3),Rainbow Power Company,NSW,1,Both CHAdeMO & CCS Combo 2/SAE,Tesla Destination,10,,"1 Alternative Way, Nimbin NSW 2480, Australia",2480
+-33.8351248,151.084473,AC (level 2),Rhodes Waterside,NSW,4,Tesla (Type 2),Tesla Destination,22,,"1 Rider Blvd, Rhodes NSW 2138, Australia",2138
+-33.7299524,150.7807061,AC (level 2),Ropes Crossing Village Shopping Centre,NSW,1,Tesla (Type 2),Tesla Destination,22,Tesla,"8 Ropes Crossing Blvd, Ropes Crossing NSW 2760, Australia",2760
+-33.3335,149.043181,AC (level 2),Ross Hill Wines,NSW,1,Tesla (Type 2),Tesla Destination,14,Tesla,"134 Wallace Ln, Orange NSW 2800, Australia",2800
+-33.6906736,150.9258319,DC (level 3),Rouse Hill Town Centre - Purple Car Park,NSW,2,Both CHAdeMO & CCS Combo 2/SAE,Tesla Destination,22,,"72 Civic Way, Rouse Hill NSW 2155, Australia",2155
+-31.4271206,152.8982979,AC (level 2),Sails Port Macquarie,NSW,2,Tesla (Type 2),Tesla Destination,22,Tesla,"20 Park St, Port Macquarie NSW 2444, Australia",2444
+-32.8313564,151.3187613,DC (level 3),Savannah Estate,NSW,1,Both CHAdeMO & CCS Combo 2/SAE,Tesla Destination,6,Tesla,"211/402 Mount View Rd, Mount View NSW 2325, Australia",2325
+-30.3701045,153.0991893,AC (level 2),Sawtell Motor Inn,NSW,2,Tesla (Type 2),Tesla Destination,3,,"Sawtell Motor Inn, 57 Boronia St, Sawtell NSW 2452, Australia",2452
+-33.7290181,150.2998321,AC (level 2),Scenic World,NSW,2,Tesla (Type 2),Tesla Destination,22,Tesla,"Violet St & Cliff Dr, Katoomba NSW 2780, Australia",2780
+-35.0463072,150.6703145,AC (level 2),Sea Mist Jervis Bay,NSW,2,Tesla (Type 2),Tesla Destination,22,,"13 Berry St, Huskisson NSW 2540, Australia",2540
+-28.1977059,153.5057332,AC (level 2),Seagulls Club,NSW,2,Tesla (Type 2),Tesla Destination,22,,"Unit 54/68 Gollan Dr, Tweed Heads West NSW 2485, Australia",2485
+-29.0405647,152.0199321,DC (level 3),Settlers Motor Inn,NSW,2,Both CHAdeMO & CCS Combo 2/SAE,Tesla Destination,3,Tesla,"120 New England Hwy, Tenterfield NSW 2372, Australia",2372
+-34.9761042,149.0082813,AC (level 2),Shaw Wines,NSW,2,J-1772,Tesla Destination,22,,"34 Isabel Dr, Murrumbateman NSW 2582, Australia",2582
+-33.8715295,151.2097193,AC (level 2),Sheraton Grand Hyde Park,NSW,2,J-1772,Tesla Destination,22,,"161 Elizabeth St, Sydney NSW 2000, Australia",2000
+-33.3154277,149.0221838,AC (level 2),Sisters Rock Restaurant,NSW,1,J-1772,Tesla Destination,22,Tesla,"Borrodell, 298 Lake Canobolas Rd, Canobolas NSW 2800, Australia",2800
+-33.6303798,150.8439909,AC (level 2),Skyline Solar ( Working Now ),NSW,1,Tesla (Type 2),,,,"317 Windsor Rd, Vineyard NSW 2765, Australia",2765
+-32.7015766,152.0631385,AC (level 2),Soldiers Point Marina,NSW,2,Type 2,Tesla Destination,22,Tesla,"2 Sunset Blvd, Soldiers Point NSW 2317, Australia",2317
+-32.7780074,151.2713445,AC (level 2),Spicer's Guesthouse,NSW,2,Tesla (Type 2),,,,"Ekerts Rd, Pokolbin NSW 2320, Australia",2320
+-32.6963867,151.2617226,AC (level 2),Spicers Hunter Valley,NSW,2,Type 2,Tesla Destination,22,Tesla,"555 Hermitage Rd, Pokolbin NSW 2320, Australia",2320
+-32.6963867,151.2617226,AC (level 2),Spicers Vineyards Estate,NSW,1,Type 2,Tesla Destination,11,,"555 Hermitage Rd, Pokolbin NSW 2320, Australia",2320
+-34.6068718,150.2776046,AC (level 2),St Maur Winery,NSW,1,Tesla (Type 2),Tesla Destination,22,,"238 Old Argyle Rd, Exeter NSW 2579, Australia",2579
+-33.7186167,150.9200078,AC (level 2),Stanhope Village Shopping Centre,NSW,3,Tesla (Type 2),Tesla Destination,22,,"2 Sentry Dr, Stanhope Gardens NSW 2768, Australia",2768
+-33.4182154,149.5829797,AC (level 2),Stockland,NSW,2,Tesla (Type 2),Tesla Destination,6,Tesla,"121 Howick St, Bathurst NSW 2795, Australia",2795
+-33.7930797,151.2643177,AC (level 2),Stockland Balgowlah,NSW,3,Tesla (Type 2),Tesla Destination,22,,"197-215 Condamine St, Balgowlah NSW 2093, Australia",2093
+-33.7590552,150.9915552,AC (level 2),Stockland Baulkham Hills Mall,NSW,1,Tesla (Type 2),Tesla Destination,22,,"375 Windsor Rd, Baulkham Hills NSW 2153, Australia",2153
+-33.8236017,151.2097047,AC (level 2),Stockland Cammeray,NSW,1,Tesla (Type 2),Tesla Destination,22,,"450 Miller St, Cammeray NSW 2062, Australia",2062
+-32.1995922,152.5200713,AC (level 2),Stockland Forster,NSW,2,Type 2,Tesla Destination,22,,"123 Breese Parade, Forster NSW 2428, Australia",2428
+-32.9343229,151.6421833,AC (level 2),Stockland Glendale,NSW,2,Tesla (Type 2),Tesla Destination,22,,"387 Lake Rd, Glendale NSW 2285, Australia",2285
+-32.7607519,151.5907354,DC (level 3),Stockland Green Hills,NSW,2,Both CHAdeMO & CCS Combo 2/SAE,Tesla Destination,22,,"12 Mitchell Dr, East Maitland NSW 2323, Australia",2323
+-32.9027533,151.6902806,DC (level 3),Stockland Jesmond,NSW,1,Tesla (Supercharger),Tesla Destination,6,,"28 Blue Gum Rd, Jesmond NSW 2299, Australia",2299
+-33.8358671,150.9915856,AC (level 2),Stockland Merrylands,NSW,2,Tesla (Type 2),Tesla Destination,22,Tesla,"Pitt St & McFarlane St, Merrylands NSW 2160, Australia",2160
+-34.56286,150.8402774,AC (level 2),Stockland Shellharbour - East,NSW,2,J-1772,Tesla Destination,6,,"211 Lake Entrance Rd, Shellharbour City Centre NSW 2529, Australia",2529
+-34.5649659,150.840232,AC (level 2),Stockland Shellharbour - West,NSW,2,Tesla (Type 2),Tesla Destination,6,,"Ground, Stockland Shellharbour, 211 Lake Entrance Rd, Shellharbour NSW 2529, Australia",2529
+-33.8593157,150.8978985,AC (level 2),Stockland Wetherill Park,NSW,2,Tesla (Type 2),Tesla Destination,22,Tesla,"561/583 Polding St, Wetherill Park NSW 2164, Australia",2164
+-33.9024515,151.2152205,AC (level 2),Supa Centa Moore Park,NSW,1,Tesla (Type 2),Tesla Destination,22,,"2 Todman Ave, Kensington NSW 2033, Australia",2033
+-33.7698966,150.6729235,AC (level 2),Supercheap Auto,NSW,2,Tesla (Type 2),Tesla Destination,22,Tesla,"2227 Wolseley St, Jamisontown NSW 2750, Australia",2750
+-28.6398972,153.6076678,AC (level 2),Suranadi Beach Houses,NSW,2,Tesla (Type 2),Tesla Destination,6,,"3 Cavvanbah St, Byron Bay NSW 2481, Australia",2481
+-33.9329646,151.180012,AC (level 2),Sydney Airport - Qantas Valet Parking,NSW,2,Tesla (Type 2),Tesla Destination,7,,"Sydney Airport, Sydney Airport (SYD), Domestic Terminal 3 Arrivals Arrivals Rd, Mascot NSW 2020, Australia",2020
+-33.8631454,151.0718938,AC (level 2),Sydney Markets,NSW,1,Type 2,,,,"250/318 Parramatta Rd, Homebush West NSW 2140, Australia",2140
+-33.860054,151.0712501,AC (level 2),Sydney Markets,NSW,2,Type 2,Tesla Destination,22,,"250/318 Parramatta Rd, Homebush West NSW 2140, Australia",2140
+-33.8037992,150.8676991,AC (level 2),Sydney Motorsport Park,NSW,2,J-1772,Tesla Destination,22,,"1 Ferrers Rd, Eastern Creek NSW 2766, Australia",2766
+-33.8449744,151.0607053,AC (level 2),Sydney Olympic Park,NSW,2,Tesla (Type 2),Tesla Destination,22,Tesla,"15 Edwin Flack Ave, Sydney Olympic Park NSW 2127, Australia",2127
+-32.7822086,151.3022139,AC (level 2),Tamburlaine Wines,NSW,2,Type 2,Tesla Destination,22,Tesla,"358 McDonalds Rd, Pokolbin NSW 2320, Australia",2320
+-33.8645502,151.2061462,AC (level 2),The Amora Hotel Jamison Sydney,NSW,2,Type 2,Tesla Destination,22,,"11 Jamison St, Sydney NSW 2000, Australia",2000
+-36.426114,150.063369,AC (level 2),The Anchorage,NSW,2,Type 2,Tesla Destination,17,Tesla,"2 West St, Bermagui NSW 2546, Australia",2546
+-33.813922,151.169515,AC (level 2),The Canopy Lane Cove - P3,NSW,3,Type 2,Tesla Destination,2,,"2/24 Birdwood Ln, Sydney NSW 2066, Australia",2066
+-35.2565207,149.4400298,AC (level 2),The Carrington Inn,NSW,2,Type 2,Tesla Destination,6,,"21 Malbon St, Bungendore NSW 2621, Australia",2621
+-34.8712534,147.5820007,AC (level 2),The Crossing Motel,NSW,2,Tesla (Type 2),Tesla Destination,22,Tesla,"39 Seignior St, Junee NSW 2663, Australia",2663
+-33.3526728,151.4902939,AC (level 2),The Entrance Motel,NSW,1,Type 2,Tesla Destination,22,,"212 The Entrance Rd, Long Jetty NSW 2261, Australia",2261
+-32.9211521,151.7147985,AC (level 2),The Executive Inn,NSW,2,Tesla (Type 2),Tesla Destination,22,Tesla,"10 Rugby Rd, New Lambton NSW 2305, Australia",2305
+-32.8924328,151.7432109,DC (level 3),The Gateway Inn Newcastle,NSW,3,Both CHAdeMO & CCS Combo 2/SAE,Tesla Destination,22,Tesla,"26 William St, Mayfield NSW 2304, Australia",2304
+-33.913447,151.0341269,AC (level 2),The Highline Venue,NSW,2,J-1772,Tesla Destination,22,Tesla,"462 Chapel Rd, Bankstown NSW 2200, Australia",2200
+-33.7306381,150.9731012,AC (level 2),The Hills Lodge,NSW,1,Tesla (Type 2),Tesla Destination,5,,"1 Salisbury Rd, Castle Hill NSW 2154, Australia",2154
+-33.6774245,150.2815125,AC (level 2),The Hydro Majestic Hotel Blue Mountains,NSW,1,Tesla (Type 2),Tesla Destination,22,,"52-88 Great Western Hwy, Medlow Bath NSW 2780, Australia",2780
+-33.8605169,151.2034473,AC (level 2),The Langham Hotel Sydney,NSW,3,Tesla (Type 2),Tesla Destination,22,,"89-113 Kent St, Millers Point NSW 2000, Australia",2000
+-35.8557306,150.172716,AC (level 2),The Lodge Broulee Motel,NSW,2,Tesla (Type 2),Tesla Destination,5,Tesla,"18 Imlay St, Broulee NSW 2537, Australia",2537
+-32.7541516,151.3000422,AC (level 2),The Longhouse Pokolbin,NSW,2,Tesla (Type 2),Tesla Destination,22,Tesla,"385 Palmers Ln, Pokolbin NSW 2320, Australia",2320
+-33.930536,151.197518,AC (level 2),The Mascot Eye Specialist Centre,NSW,1,Tesla (Type 2),,,,"170 King Ln, Mascot NSW 2020, Australia",2020
+-30.3063515,153.1371698,AC (level 2),The Observatory Holiday Apartments,NSW,2,Type 2,Tesla Destination,4,Tesla,"30-36 Camperdown St, Coffs Harbour NSW 2450, Australia",2450
+-31.4309607,152.918799,AC (level 2),The Observatory Port Macquarie,NSW,2,Tesla (Type 2),Tesla Destination,6,,"40 William St, Port Macquarie NSW 2444, Australia",2444
+-31.0982051,150.9405066,AC (level 2),The Quality Hotel PowerHouse,NSW,2,Tesla (Type 2),Tesla Destination,22,Tesla,"248 Armidale Rd, East Tamworth NSW 2340, Australia",2340
+-34.8090953,150.6404804,AC (level 2),The Silos Estate,NSW,2,Type 2,Tesla Destination,22,Tesla,"640 Princes Hwy, Jaspers Brush NSW 2535, Australia",2535
+-32.5552209,149.5889888,AC (level 2),The Zin House,NSW,2,Tesla (Type 2),Tesla Destination,22,Tesla,"Tinja Ln, Eurunderee NSW 2850, Australia",2850
+-35.1029372,147.3688004,AC (level 2),Thirsty Crow Brewery,NSW,1,Type 2,Tesla Destination,8,Tesla,"153 Fitzmaurice St, Wagga Wagga NSW 2650, Australia",2650
+-32.7839958,151.0815855,AC (level 2),Thistledo Vineyard,NSW,1,Tesla (Type 2),Tesla Destination,6,Tesla,"Thistledo Vineyard, 558 Wollombi Rd, Broke NSW 2330, Australia",2330
+-36.5041894,148.3062918,DC (level 3),Thredbo Alpine Hotel,NSW,1,Both CHAdeMO & CCS Combo 2/SAE,Tesla Destination,22,Tesla,"S2 Mowamba Pl, Kosciuszko National Park NSW 2625, Australia",2625
+-33.2810752,149.0994223,AC (level 2),Town Square Motel & Metropolitan Hotel,NSW,2,Tesla (Type 2),Tesla Destination,22,Tesla,"246 Anson St, Orange NSW 2800, Australia",2800
+-33.8761055,151.1783737,AC (level 2),Tramsheds Harold Park,NSW,2,Tesla (Type 2),Tesla Destination,22,,"1 Dalgal Way, Forest Lodge NSW 2037, Australia",2037
+-35.2954431,148.2153619,DC (level 3),Tumut River Brewing Co.,NSW,2,Both CHAdeMO & CCS Combo 2/SAE,Tesla Destination,22,Tesla,"1-5 Capper St, Tumut NSW 2720, Australia",2720
+-28.1767544,153.5407321,DC (level 3),Tweed Heads Vegas Motel,NSW,2,Both CHAdeMO & CCS Combo 2/SAE,Tesla Destination,14,Tesla,"123 Wharf St, Tweed Heads NSW 2485, Australia",2485
+-33.1912931,148.5330477,AC (level 2),Twisted River Wines,NSW,1,Type 2,Tesla Destination,7,,"6056 Henry Parkes Way, Manildra NSW 2865, Australia",2865
+-35.157577,147.4594566,AC (level 2),Valet Park and Fly Wagga Airport,NSW,1,Tesla (Type 2),Tesla Destination,22,Tesla,"Don Kendell Dr, Forest Hill NSW 2651, Australia",2651
+-34.8404055,149.6867208,DC (level 3),Wakefield Park Raceway,NSW,1,Both CHAdeMO & CCS Combo 2/SAE,,,Tesla,"4770 Braidwood Rd, Tirrannaville NSW 2580, Australia",2580
+-33.8915695,151.2505012,AC (level 2),Westfield Bondi Junction - Car Park P4 (Valet),NSW,4,Tesla (Type 2),Tesla Destination,22,,"500 Oxford St, Bondi Junction NSW 2022, Australia",2022
+-34.0355512,151.1006368,AC (level 2),Westfield Miranda,NSW,2,Type 2,Tesla Destination,22,,"600 Kingsway, Miranda NSW 2228, Australia",2228
+-33.869167,151.2087416,AC (level 2),Westfield Sydney Central Plaza,NSW,2,Tesla (Type 2),Tesla Destination,22,,"135 King St, Sydney NSW 2000, Australia",2000
+-33.7658596,151.2648571,AC (level 2),Westfield Warringah Mall Valet,NSW,4,Tesla (Type 2),Tesla Destination,22,Tesla,"145 Old Pittwater Rd, Brookvale NSW 2100, Australia",2100
+-32.9503524,151.1820861,AC (level 2),Wild Edge Retreat,NSW,2,Type 2,Tesla Destination,6,Tesla,"Wild Edge Retreat, 260 Craft Rd, Wollombi NSW 2325, Australia",2325
+-33.8799521,151.2034355,AC (level 2),Wilson Parking Market City,NSW,6,Tesla (Type 2),Tesla Destination,22,,"9-13 Hay St, Haymarket NSW 2000, Australia",2000
+-32.5968978,149.5878482,AC (level 2),Winning Post Motor Inn,NSW,2,Type 2,Tesla Destination,22,,"101 Church St, Mudgee NSW 2850, Australia",2850
+-34.4234883,150.8922583,AC (level 2),Wollongong Central - P1 Basement,NSW,2,Tesla (Type 2),Tesla Destination,22,,"71 Market St, Wollongong NSW 2500, Australia",2500
+-34.841875,148.9126594,AC (level 2),Yass Soldiers Club,NSW,2,Type 2,Tesla Destination,22,Tesla,"86 Meehan St, Yass NSW 2582, Australia",2582
+-34.8404055,149.6867208,AC (level 2),Wakefield Park Raceway,NSW,1,Tesla (Type 2),,,Tesla,"4770 Braidwood Rd, Tirrannaville NSW 2580, Australia",2580
+-33.8705978,151.203956,AC (level 2),Allianz Centre - Secure Parking,NSW,4,J-1772,Everty,22,,"186 Sussex St, Sydney NSW 2000, Australia",2000
+-33.7964104,151.1836091,AC (level 2),Anderson Street Parking/Charging,NSW,2,Tesla (Type 2),Chargefox,22,,"370 Anderson St, Chatswood NSW 2067, Australia",2067
+-33.4458862,149.1852109,AC (level 2),Angullong Wine Tasting Room,NSW,1,J-1772,,,,"37 Victoria St, Millthorpe NSW 2798, Australia",2798
+-34.6726828,150.2122963,AC (level 2),Australia Post - Penrose CPA,NSW,1,Tesla (Type 2),,,,"901 Penrose Rd, Penrose NSW 2579, Australia",2579
+-31.2731036,149.2792177,AC (level 2),Barron's Tyre & Mechanical,NSW,1,J-1772,,,,"76 Dalgarno St, Coonabarabran NSW 2357, Australia",2357
+-29.4753381,149.8456657,AC (level 2),Baths Motel,NSW,1,Tesla (Type 2),Everty,7,Tesla,"339 Warialda St, Moree NSW 2400, Australia",2400
+-33.4259189,149.5817468,AC (level 2),Bathurst Rail Museum,NSW,1,J-1772,,,,"126 Havannah St, Bathurst NSW 2795, Australia",2795
+-33.7632734,151.0042477,AC (level 2),Baulkham Hills Sports Club,NSW,1,Tesla (Type 2),,,,"11 Renown Rd, Baulkham Hills NSW 2153, Australia",2153
+-33.7365294,150.9485142,AC (level 2),Bella Vista Hotel,NSW,1,J-1772,,,,"13-15 Lexington Dr, Bella Vista NSW 2153, Australia",2153
+-33.8555224,151.1621054,AC (level 2),Birkenhead Point Outlet Centre,NSW,4,Tesla (Type 2),Chargefox,,,"19 Roseby St, Drummoyne NSW 2047, Australia",2047
+-33.7702867,150.9059341,AC (level 2),Blacktown Westpoint Shopping Centre,NSW,8,J-1772,Chargefox,,,"17 Patrick St, Blacktown NSW 2148, Australia",2148
+-33.9380083,151.1924793,AC (level 2),Blue Emu Car Park,NSW,2,Tesla (Type 2),,,,"Ross Smith Ave, Mascot NSW 2020, Australia",2020
+-33.8900918,151.2770796,AC (level 2),Bondi Beach Park,NSW,2,J-1772,Chargefox,,,"2 Queen Elizabeth Dr, Bondi Beach NSW 2026, Australia",2026
+-33.855129,151.078781,AC (level 2),Bressington Park Carpark,NSW,1,Tesla (Type 2),,22,,"Underwood Road opp DFO Homebush, Homebush NSW 2140, Australia",2140
+-33.92008,151.2437997,AC (level 2),Brigidine College Wilson Car Park,NSW,2,Tesla (Type 2),,,,"49 St Pauls St, Randwick NSW 2031, Australia",2031
+-33.8827784,151.1948135,AC (level 2),Broadway Shopping Centre,NSW,4,J-1772,Chargefox,,,"31 Bay St, Glebe NSW 2037, Australia",2037
+-28.5548759,153.5024149,AC (level 2),Byron Shire Carpark,NSW,2,Tesla (Type 2),EVUp,,,"70-90 Station St, Mullumbimby NSW 2482, Australia",2482
+-34.0424537,151.0489528,AC (level 2),Cafe Loftus,NSW,1,J-1772,,,,"71 National Ave, Loftus NSW 2232, Australia",2232
+-32.9164148,151.597277,AC (level 2),Cameron Park Plaza,NSW,4,Tesla (Type 2),Chargefox,,,"100 George Booth Dr, Cameron Park NSW 2285, Australia",2285
+-33.9076689,151.1039558,AC (level 2),Canterbury Bankstown Council,NSW,2,Tesla (Type 2),,,,"21 Shakespeare St, Campsie NSW 2194, Australia",2194
+-28.8624736,153.0493516,AC (level 2),Casino RSM,NSW,2,Type 2,EVUp,22,,"162 Canterbury St, Casino NSW 2470, Australia",2470
+-33.1047393,151.647899,DC (level 3),Caves Coastal Bar and Bungalows,NSW,4,Both CHAdeMO & CCS Combo 2/SAE,,,,"3/3 Mawson Cl, Caves Beach NSW 2281, Australia",2281
+-33.9117284,151.1174279,AC (level 2),Charles St Parking/Charging,NSW,1,Tesla (Type 2),,,,"10B Charles St, Canterbury NSW 2193, Australia",2193
+-33.7209507,151.043454,AC (level 2),Cherrybrook Village,NSW,2,Tesla (Type 2),Chargefox,,,"Shop 42/47 Shepherds Dr, Cherrybrook NSW 2126, Australia",2126
+-33.8591236,151.2079349,AC (level 2),Clocktower,NSW,2,Tesla (Type 2),,,,"5030 Argyle St, The Rocks NSW 2000, Australia",2000
+-32.6701592,151.35064,AC (level 2),Coles Huntlee,NSW,2,Type 2,Chargefox,,,"22 Empire St, Branxton NSW 2335, Australia",2335
+-33.919164,151.2548881,AC (level 2),Coogee Eastward Senior Citizens Hall,NSW,2,J-1772,Chargefox,,,"97R Brook St, Coogee NSW 2034, Australia",2034
+-34.0946142,142.0388599,AC (level 2),Coomealla Motel,NSW,1,Type 2,,,,"1 Matong St, Dareton NSW 2717, Australia",2717
+-32.8846225,151.7283475,AC (level 2),CSIRO Energy Centre,NSW,1,Tesla (Type 2),,,,"10 Murray Dwyer Cct, Mayfield West NSW 2304, Australia",2304
+-33.8712161,151.203816,DC (level 3),Darling Park - Wilson Parking,NSW,2,Tesla (Supercharger),Chargefox,,,"201 Sussex St, Sydney NSW 2000, Australia",2000
+-33.950653,151.2388365,AC (level 2),Des Renford Leisure Centre,NSW,2,J-1772,Chargefox,,,"Jersey Rd & Robey Street, Maroubra NSW 2035, Australia",2035
+-33.9052704,151.2130888,AC (level 2),East Village Shopping Centre,NSW,4,J-1772,Chargefox,22,Tritium,"4 Defries Ave, Zetland NSW 2017, Australia",2017
+-33.7839196,150.8525994,AC (level 2),Eastern Creek Quarter,NSW,4,Tesla (Type 2),Chargefox,,,"159 Rooty Hill Rd S, Eastern Creek NSW 2766, Australia",2766
+-33.9697113,150.8580757,AC (level 2),Ed Square Town Centre,NSW,6,J-1772,Chargefox,,,"52 Soldiers Parade, Edmondson Park NSW 2174, Australia",2174
+-33.9964797,150.7924412,AC (level 2),Emerald Hills Shopping Village,NSW,2,Tesla (Type 2),,,,"5 Emerald Hills Blvd, Leppington NSW 2179, Australia",2179
+-28.8073752,153.5823758,AC (level 2),Epiq Market Shopping Center,NSW,2,Tesla (Type 2),Chargefox,,,"5 Snapper Dr, Lennox Head NSW 2478, Australia",2478
+-34.5801684,142.7433766,AC (level 2),Euston Bowling & Recreation Club,NSW,1,Tesla (Type 2),,22,,"2/28 Nixon St, Euston NSW 2737, Australia",2737
+-33.7692352,150.9469445,DC (level 3),evse.com.au,NSW,1,Both CHAdeMO & CCS Combo 2/SAE,,,,"14/13 Brumby St, Seven Hills NSW 2147, Australia",2147
+-35.8439249,150.1713257,AC (level 2),EVUp at Train St Central,NSW,1,Tesla (Type 2),EVUp,,,"53 Train St, Broulee NSW 2537, Australia",2537
+-34.4366153,150.8632982,DC (level 3),Figtree Grove Shopping Centre,NSW,2,Tesla (Supercharger),Chargefox,,,"19 Princes Hwy, Figtree NSW 2525, Australia",2525
+-35.0644143,148.1072521,DC (level 3),Flash Jacks of Gundagai,NSW,2,Both CHAdeMO & CCS Combo 2/SAE,,11,,"14 Homer St, Gundagai NSW 2722, Australia",2722
+-29.7381427,151.7376761,DC (level 3),Glen Innes Visitor Information Centre,NSW,1,Both CHAdeMO & CCS Combo 2/SAE,EVUp,,Tesla,"152 Church St, Glen Innes NSW 2370, Australia",2370
+-33.8406884,151.2075778,AC (level 2),Greenwood Plaza,NSW,4,Tesla (Type 2),Chargefox,,Tesla,"36 Blue St, North Sydney NSW 2060, Australia",2060
+-33.8629649,151.207252,AC (level 2),Grosvenor Place (7 Essex St),NSW,4,Tesla (Type 2),,,,"225 George St, Sydney NSW 2000, Australia",2000
+-28.6315079,153.5822565,AC (level 2),Habitat Byron Bay,NSW,3,Tesla (Type 2),Chargefox,,,"1 Porter St, Byron Bay NSW 2481, Australia",2481
+-33.870915,151.1974125,AC (level 2),Harbourside Wilson Parking,NSW,2,Type 2,,22,,"59 Murray St, Sydney NSW 2000, Australia",2000
+-33.8251258,151.2021849,AC (level 2),Holtermann St Carpark,NSW,2,Tesla (Type 2),,,,"29 Holtermann St, Crows Nest NSW 2065, Australia",2065
+-33.8244407,151.1998883,AC (level 2),Hume St Carpark,NSW,2,Type 2,,,,"44 Hume St, Crows Nest NSW 2065, Australia",2065
+-32.8780102,151.6968309,AC (level 2),Hunter Wetlands Centre,NSW,1,Tesla (Type 2),,,,"412 Sandgate Rd, Shortland NSW 2307, Australia",2307
+-33.7640894,151.2707929,AC (level 2),Hyundai Brookvale Dealership,NSW,1,Tesla (Type 2),,,,"493 Pittwater Rd, Brookvale NSW 2100, Australia",2100
+-33.8628857,151.2123616,AC (level 2),Intercontinental Hotel,NSW,1,Tesla (Type 2),Chargefox,,,"117 Macquarie St, Sydney NSW 2000, Australia",2000
+-33.7021237,150.9135277,DC (level 3),Jonas Bradley Park,NSW,1,Both CHAdeMO & CCS Combo 2/SAE,Chargefox,,,"158 The Ponds Blvd, The Ponds NSW 2769, Australia",2769
+-32.734869,151.261453,AC (level 2),Keith Tulloch Winery,NSW,1,Tesla (Type 2),,,,"989 Hermitage Rd, Pokolbin NSW 2320, Australia",2320
+-33.7515351,151.2441705,AC (level 2),KFC Frenchs Forest,NSW,1,Tesla (Type 2),,,,"20 Frenchs Forest Rd E, Frenchs Forest NSW 2086, Australia",2086
+-33.8783925,151.2439428,AC (level 2),Kiaora Place Shopping Centre,NSW,2,Tesla (Type 2),Chargefox,,,"1 Kiaora Rd, Double Bay NSW 2028, Australia",2028
+-28.2555425,153.5749473,AC (level 2),Kingscliff Shopping Centre,NSW,1,J-1772,Chargefox,,,"32 Pearl St, Kingscliff NSW 2487, Australia",2487
+-32.9600691,151.6236683,AC (level 2),Lake Macquarie Council,NSW,1,Tesla (Type 2),Chargefox,,,"126-138 Main Rd, Speers Point NSW 2284, Australia",2284
+-32.929377,151.7719625,AC (level 2),Laman St Parking/Charging,NSW,2,Tesla (Type 2),Chargefox,,,"25 Laman St, Cooks Hill NSW 2300, Australia",2300
+-33.8151643,151.1691303,AC (level 2),Lane Cove Market Square Car Park,NSW,5,Tesla (Type 2),,,,"28 Burns Bay Rd, Lane Cove NSW 2066, Australia",2066
+-32.7617363,152.0828909,AC (level 2),Latitude One,NSW,2,Tesla (Type 2),,22,,"Latitude Dr, Anna Bay NSW 2316, Australia",2316
+-33.8135344,151.1715451,AC (level 2),Little Street Car Park,NSW,4,Tesla (Type 2),,,,"2 Little St, Lane Cove North NSW 2066, Australia",2066
+-34.0556271,150.771849,AC (level 2),Macarthur Centre for Sustainable Living,NSW,2,Type 2,Chargefox,,,"1 Mount Annan Dr, Mount Annan NSW 2567, Australia",2567
+-33.7738237,151.1126498,AC (level 2),Macquarie University,NSW,6,Tesla (Type 2),,22,,"Balaclava Rd, Macquarie Park NSW 2109, Australia",2109
+-33.8245423,151.0789793,AC (level 2),Marina Square Shopping Centre Wentworth Point,NSW,2,J-1772,,,,"5 Footbridge Bvd, Sydney Olympic Park NSW 2127, Australia",2127
+-33.7716336,150.9086078,AC (level 2),Max Webber Library,NSW,2,Tesla (Type 2),,,,"62 Flushcombe Rd, Blacktown NSW 2148, Australia",2148
+-33.6996291,150.9576895,AC (level 2),McDonald's,NSW,2,Type 2,Chargefox,,,"133 Samantha Riley Dr, Kellyville NSW 2155, Australia",2155
+-33.6958229,151.0315945,AC (level 2),McDonald's Dural,NSW,2,Tesla (Type 2),Chargefox,,,"823 Old Northern Rd, Dural NSW 2158, Australia",2158
+-28.6470279,153.6124725,AC (level 2),Mercato Shopping Centre,NSW,8,Type 2,Chargefox,,,"106 Jonson St, Byron Bay NSW 2481, Australia",2481
+-36.0959078,150.0511597,AC (level 2),Micro Energy Systems Australia,NSW,1,Tesla (Type 2),ChargePoint,,,"147 Princes Hwy, Bodalla NSW 2545, Australia",2545
+-33.8924759,151.2461293,AC (level 2),Mill Hill Centre,NSW,2,Type 2,Chargefox,,,"31 Spring St, Bondi Junction NSW 2022, Australia",2022
+-34.4989528,150.4815589,AC (level 2),Milton Park Country House,NSW,2,Tesla (Type 2),,,Tesla,"200 Horderns Rd, Bowral NSW 2576, Australia",2576
+-33.8961195,151.1951555,AC (level 2),Mirvac South Eveleigh,NSW,4,Tesla (Type 2),Chargefox,,,"2 Central Ave, Eveleigh NSW 2015, Australia",2015
+-33.7673709,150.8217792,AC (level 2),Mount Druitt Hub,NSW,1,Tesla (Type 2),Chargefox,,,"9 Ayres Grove, Mount Druitt NSW 2770, Australia",2770
+-34.8402325,150.7320802,AC (level 2),Mountain Ridge Wines,NSW,2,Type 2,EVUp,22,,"11 Coolangatta Rd, Coolangatta NSW 2535, Australia",2535
+-32.7389826,151.8672424,AC (level 2),Muir St Parking/Charging,NSW,2,Tesla (Type 2),Chargefox,,,"6 Muir St, Medowie NSW 2318, Australia",2318
+-33.3934017,151.3293208,AC (level 2),Narara Ecovillage Coffee Cart,NSW,1,Type 2,,,,"30 Gugandi Rd, Narara NSW 2250, Australia",2250
+-32.8708409,151.7936776,AC (level 2),Newcastle Links Motel,NSW,1,Tesla (Type 2),,,,"1024 Nelson Bay Rd, Fern Bay NSW 2295, Australia",2295
+-33.8381725,151.0526388,AC (level 2),NHP Electrical Engineering Products Pty Ltd,NSW,1,J-1772,,,,"30-34 Day St N, Silverwater NSW 2128, Australia",2128
+-33.8269518,151.199066,AC (level 2),Nicholson St Carpark,NSW,1,Tesla (Type 2),,,,"19 Nicholson St, Wollstonecraft NSW 2065, Australia",2065
+-32.9334094,151.7585158,AC (level 2),No. 2 Sportsground,NSW,4,Type 2,Chargefox,22,,"Smith St, Newcastle West NSW 2302, Australia",2302
+-30.2873987,153.1271838,AC (level 2),North Coast Power and Water,NSW,1,Type 2,,,Tesla,"13 Gdt Seccombe Cl, Coffs Harbour NSW 2450, Australia",2450
+-33.8272798,151.2017211,AC (level 2),North Sydney Council- Woolworths Car Park Crows Nest,NSW,2,Tesla (Type 2),,,,"10 Falcon St, Crows Nest NSW 2065, Australia",2065
+-33.7503396,151.2862494,AC (level 2),PCYC Carpark - 2,NSW,3,Tesla (Type 2),,,,"40 Kingsway, Dee Why NSW 2099, Australia",2099
+-33.7376217,151.0709729,AC (level 2),Pennant Hills Market Place,NSW,2,Tesla (Type 2),,22,,"shop 17/10 Hillcrest Rd, Pennant Hills NSW 2120, Australia",2120
+-33.7379428,150.6918074,AC (level 2),Penrith Nissan,NSW,1,Type 2,Chargefox,,,"2140 Castlereagh Rd, Penrith NSW 2750, Australia",2750
+-33.6779119,151.2931622,AC (level 2),Pittwater RSL Club,NSW,2,Type 2,,,,"80-82 Mona Vale Rd, Mona Vale NSW 2103, Australia",2103
+-33.9305044,151.2467569,AC (level 2),Randwick Community Centre,NSW,2,Type 2,Chargefox,,,"27 Munda St, Randwick NSW 2031, Australia",2031
+-33.9138492,151.2393362,AC (level 2),Randwick Junction,NSW,2,Tesla (Type 2),Chargefox,,,"18 Silver St, Randwick NSW 2031, Australia",2031
+-33.8351248,151.084473,AC (level 2),Rhodes Waterside,NSW,4,J-1772,Chargefox,,,"1 Rider Blvd, Rhodes NSW 2138, Australia",2138
+-33.833291,151.2073294,AC (level 2),Ridge St Carpark,NSW,2,J-1772,,,,"1 James Pl, North Sydney NSW 2060, Australia",2060
+-30.6423576,153.0038117,AC (level 2),Ridge St Parking/Charging,NSW,1,J-1772,,,,"23 Ridge St, Nambucca Heads NSW 2448, Australia",2448
+-30.7059726,152.9192586,AC (level 2),River Street Car Park,NSW,1,Type 2,,,,"999 Princess St, Macksville NSW 2447, Australia",2447
+-33.7713922,150.845071,DC (level 3),Rooty Hill Station Commuter Carpark,NSW,10,Both CHAdeMO & CCS Combo 2/SAE,Chargefox,,,"1 Station St, Rooty Hill NSW 2766, Australia",2766
+-33.8716222,151.2681738,AC (level 2),Rose Bay Shopping,NSW,2,Tesla (Roadster),Chargefox,22,,"2A Richmond Rd, Rose Bay NSW 2029, Australia",2029
+-35.0463072,150.6703145,AC (level 2),Sea Mist Jervis Bay,NSW,1,Tesla (Type 2),Everty,22,,"13 Berry St, Huskisson NSW 2540, Australia",2540
+-33.7747435,150.9362842,DC (level 3),Seven Hills Railway Station Carpark,NSW,1,Both CHAdeMO & CCS Combo 2/SAE,Chargefox,7,,"Boomerang Pl, Seven Hills NSW 2147, Australia",2147
+-34.9761042,149.0082813,AC (level 2),Shaw Wines,NSW,3,Type 2,,,,"34 Isabel Dr, Murrumbateman NSW 2582, Australia",2582
+-33.9268152,151.1867504,DC (level 3),Social Eatery Connect Corporate Centre,NSW,2,Both CHAdeMO & CCS Combo 2/SAE,Chargefox,,,"185 O'Riordan St, Mascot NSW 2020, Australia",2020
+-32.7780074,151.2713445,AC (level 2),Spicer's Guesthouse,NSW,2,Type 2,,,,"Ekerts Rd, Pokolbin NSW 2320, Australia",2320
+-33.7299009,151.1585895,DC (level 3),St Ives Shopping Village,NSW,1,Both CHAdeMO & CCS Combo 2/SAE,Chargefox,,,"166 Mona Vale Rd, St Ives NSW 2075, Australia",2075
+-33.7186167,150.9200078,AC (level 2),Stanhope Gardens Village,NSW,1,J-1772,Chargefox,,,"2 Sentry Dr, Stanhope Gardens NSW 2768, Australia",2768
+-33.7186167,150.9200078,AC (level 2),Stanhope Village Shopping Centre,NSW,2,Tesla (Type 2),Chargefox,,,"2 Sentry Dr, Stanhope Gardens NSW 2768, Australia",2768
+-33.8721739,151.0935841,AC (level 2),Strathfield Square Parking,NSW,1,J-1772,,7,,"5 Churchill Ave, Strathfield NSW 2135, Australia",2135
+-33.9112217,151.2106444,AC (level 2),Suttons City Nissan,NSW,2,Type 2,Chargefox,,,"118-130 Epsom Rd, Zetland NSW 2017, Australia",2017
+-27.6163325,153.1235879,AC (level 2),Suzi Auto Services & OZ DIY EV,QLD,1,J-1772,,,,"3339 Pacific Hwy, Underwood QLD 4119, Australia",4119
+-33.813922,151.169515,AC (level 2),The Canopy Lane Cove - P3,NSW,3,J-1772,,,,"2/24 Birdwood Ln, Sydney NSW 2066, Australia",2066
+-28.8630196,153.0676276,AC (level 2),The Clydesdale Motel & Steakhouse,NSW,1,Tesla (Type 2),EVUp,,,"Clydesdale Motel, 143 Johnston St, Casino NSW 2470, Australia",2470
+-33.7957097,151.1888199,AC (level 2),The Mix Chatswood Carpark,NSW,1,J-1772,,,,"46 Hercules St, Chatswood NSW 2067, Australia",2067
+-34.4863889,150.8897222,AC (level 2),The Place @ Warrawong Plaza,NSW,2,J-1772,,,,"Cnr King &, Cowper St, Warrawong NSW 2502, Australia",2502
+-35.9061213,150.1374946,AC (level 2),The Seabird,NSW,2,Tesla (Type 2),,,,"103 Bruce Cameron Dr, Moruya NSW 2537, Australia",2537
+-28.6596769,153.6151704,AC (level 2),The Sunseeker Byron Bay,NSW,1,J-1772,,,,"100 Bangalow Rd, Byron Bay NSW 2481, Australia",2481
+-33.8832202,151.1986639,AC (level 2),Thomas Street Carpark,NSW,2,Tesla (Type 2),Everty,22,,"25 Thomas St, Ultimo NSW 2007, Australia",2007
+-33.8102014,151.1060251,AC (level 2),Top Ryde City Shopping Centre,NSW,2,Type 2,Chargefox,,,"Blaxland Rd & Devlin St, Ryde NSW 2112, Australia",2112
+-33.8761055,151.1783737,AC (level 2),Tramsheds Harold Park,NSW,1,Tesla (Type 2),Chargefox,,,"1 Dalgal Way, Forest Lodge NSW 2037, Australia",2037
+-28.2855694,153.5252895,AC (level 2),Tropical Fruit World,NSW,1,Type 2,Chargefox,,,"Tropical Fruit World, 29 Duranbah Rd, Duranbah NSW 2487, Australia",2487
+-33.9188055,151.234467,AC (level 2),UNSW,NSW,6,J-1772,Chargefox,,,"20 Oval Ln, Kensington NSW 2033, Australia",2033
+-32.8927718,151.7041775,AC (level 2),UoN P4 Carpark,NSW,4,Type 2,,,,"University Dr, Callaghan NSW 2308, Australia",2308
+-32.8927718,151.7041775,AC (level 2),UoN P6 Carpark,NSW,4,Tesla (Type 2),Chargefox,,,"University Dr, Callaghan NSW 2308, Australia",2308
+-33.9113775,150.935893,AC (level 2),Volvo Cars Liverpool,NSW,1,Type 2,,,,"13 Hume Hwy, Warwick Farm NSW 2170, Australia",2170
+-32.902986,151.6674429,AC (level 2),Wallsend Village,NSW,2,Tesla (Type 2),Tesla Destination,22,,"80 Cowper St, Wallsend NSW 2287, Australia",2287
+-34.4853486,150.8875421,AC (level 2),Warrawong Plaza - JAX Tyres,NSW,2,J-1772,EVUp,22,,"Cowper St & King St, Warrawong NSW 2502, Australia",2502
+-33.7980745,151.1844265,AC (level 2),Westfield Chatswood Rooftop Parking,NSW,4,Tesla (Type 2),Chargefox,7,,"52 Albert Ave, Chatswood NSW 2067, Australia",2067
+-32.9258168,151.7791751,AC (level 2),Wharf Rd Carpark,NSW,4,Type 2,Chargefox,,,"209 Wharf Rd, Newcastle NSW 2300, Australia",2300
+-32.9503524,151.1820861,AC (level 2),Wild Edge Retreat,NSW,2,J-1772,,,Tesla,"Wild Edge Retreat, 260 Craft Rd, Wollombi NSW 2325, Australia",2325
+-33.8710864,151.2144742,DC (level 3),Wilson Parking Domain Car Park,NSW,2,Both CHAdeMO & CCS Combo 2/SAE,,,,"St Marys Rd, Sydney NSW 2000, Australia",2000
+-33.8593398,151.2135232,AC (level 2),Wilson Secure Parking Opera House,NSW,2,Tesla (Type 2),,,,"2A Macquarie St, Sydney NSW 2000, Australia",2000
+-34.4234883,150.8922583,DC (level 3),Wollongong Central - P1 Basement,NSW,1,Both CHAdeMO & CCS Combo 2/SAE,,,,"71 Market St, Wollongong NSW 2500, Australia",2500

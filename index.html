@@ -1,50 +1,4 @@
 <!DOCTYPE html>
-<<<<<<< HEAD
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Dropdown Events</title>
-    <script src="https://d3js.org/d3.v7.min.js"></script>
-    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-</head>
-<body>
-    <h2>Sources of Fuel for EV in Australia</h2>
-    <p>Numbers on hover reflect supply per state in 2022 and 2023.</p>
-    <select id="selDataset">
-        <option value="NSW">NSW</option>
-        <option value="QLD">QLD</option>
-        <option value="SA">SA</option>
-        <option value="TAS">TAS</option>
-        <option value="VIC">VIC</option>
-        <option value="WA">WA</option>
-    </select>
-
-    <div id="pie"></div>
-
-    <p>Data Sources:<br />
-        <ul>
-            <li>
-                <a href="https://aemo.com.au/energy-systems/electricity/national-electricity-market-nem/data-nem/data-dashboard-nem">Australian Energy Market Operator (Data)</a>
-            </li>
-            <li>
-                <a href="https://plotly.com/javascript/pie-charts/">Pie Charts in JavaScript (plotly)</a>
-            </li>
-            <li>
-                <a href="https://www.energy.gov.au/government-priorities/energy-data/australian-energy-statistics">Australian-energy-statistics (Data)</a>
-            </li>
-            <li>
-                <a href="https://git.bootcampcontent.com/University-of-Western-Australia/WAUS-VIRT-DATA-PT-07-2023-U-LOLC/-/tree/main/14-Interactive-Visualisations">Interactive Visualization (BootCamp)</a>
-            </li>
-            <li>
-                <a href="https://nationalmap.gov.au">EV Chargers and eletrical Vehicles (Data)</a>
-            </li>
-            </ul>
-    </p>
-    <script src="data.js"></script>
-    <script src="plots.js"></script>
-=======
 <html>
 <head>
   <title>Project 3 - Group 1</title>
@@ -52,6 +6,7 @@
   <link href="https://api.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.css" rel="stylesheet" />
 </head>
 <body>
+  
   <div class="container">
     <div class="row">
       <div class="col-md-12 jumbotron text-center">
@@ -60,29 +15,46 @@
       </div>
     </div>
     <div class="row">
-      <div class="col-md-2">
-        <div class="panel panel-primary">
-          <div class="panel-heading">
-            <h3 class="panel-title">Map Info</h3>
-          </div>
-          <div id="sample-metadata" class="panel-body"></div>
-        </div>
-      </div>
       <div class="col-md-5">
-        <div id="bar"></div>
-      </div>
-      <div class="col-md-5">
-        <div id="gauge"></div>
+        <h2 class="panel-title">Bar chart</h2>
+        <p>Bar chart below shows the number of electrical vehicles registered in NSW per year. 
+        </p>
+        <div id="barChart"></div>
       </div>
     </div>
     <div class="row">
       <div class="col-md-12">
-        <div id="bubble"></div>
+        <h2>Sources of power in Australia</h2>
+        <p>Pie chart below shows the distribution of the generation depending on its source. 
+          Numbers on hover reflect supply per state in 2022 and 2023.
+          By selecting on the list below, you can choose the state you would like to see information about.
+        </p>
+        <select id="selDataset">
+          <option value="NSW">NSW</option>
+          <option value="QLD">QLD</option>
+          <option value="SA">SA</option>
+          <option value="TAS">TAS</option>
+          <option value="VIC">VIC</option>
+        </select>
+        <div id="pie"></div>
       </div>
     </div>
   </div>
+
+  <p>Data Source:<br />
+    <ul>
+        <li>
+            <a href="https://aemo.com.au/energy-systems/electricity/national-electricity-market-nem/data-nem/data-dashboard-nem">Australian Energy Market Operator (Data)</a>
+        </li>
+        </ul>
+</p>
+
   <!-- The div that holds our map -->
-  <div id="map" style="width: 100%; height: 500px;"></div>
+  <h2 class="panel-title">Map Info</h2>
+  <p>Following map shows the suburbs in NSW that have an EV charger. 
+    When clicking the markers, you can see information related to the EV charger.
+    When clicking any point within the suburb, you can see the number if chargers in it</p>
+  <div id="map" style="width: 80%; height: 500px;"></div>
   
   <!-- D3 JavaScript -->
   <script src="https://d3js.org/d3.v7.min.js"></script>
@@ -91,7 +63,9 @@
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 
   <!-- Our JavaScript -->
-  <script type="text/javascript" src="static/js/logic1.js"></script>
->>>>>>> fff51019b6725215d4a0869037fe100b6ee1bd34
+  <script type="text/javascript" src="Coding/static/js/logic1.js"></script>
+  <script src="Coding/static/js/data.js"></script>
+  <script src="Coding/static/js/plots.js"></script>
+
 </body>
 </html>
