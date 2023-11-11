@@ -59,9 +59,9 @@ def get_fuel_sources():
 
 
 # Create an API route for the Suburbs GeoJSON
-@app.route("/api/v1.0/NSW_Geo")
+@app.route("/api/v1.0/NSW_suburbs")
 def get_geojson_data():
     # Read GeoJSON data
-    with open("Resources/suburb-2-nsw.geojson", 'r') as geojson_file:
+    with open("Resources/final_nsw.geojson", 'r') as geojson_file:
         geojson_data = geojson_file.read()
     return jsonify(geojson_data)
