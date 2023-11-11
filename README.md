@@ -51,9 +51,7 @@ All links in this section take you directly to the file in the repository.
 - [NEMFUELMIX_ALL_202311022059.csv](Resources/NEMFUELMIX_ALL_202311022059.csv)
     - The dataset is a breakdown of energy sources in the Australian National Electricity Market (NEM), containing energy source distribution of all Australian States (not including WA, NT, and ACT) between 29th October 2022 to the 21st October 2023. There are 1,524 rows and 5 columns of data.
 - [final_nsw.geojson](Resources/final_nsw.geojson)
-    - description of the file
-- [group_table_df.csv](Resources/group_table_df.csv)
-    - description of the file
+    - By merging a geojson file with the suburbs with the location of the EV chargers in NSW, a new geojson file was created containing information from both data sources. 
 
 ## Sources
 ### Electric Vehicle Council
