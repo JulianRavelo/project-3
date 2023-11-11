@@ -40,7 +40,7 @@ All links in this section take you directly to the file in the repository.
     - The file contains HTML documentation to display the visualisations created in other files. 
 
 ### [Coding](coding)
-- [Data_Engineering.sql](Coding/Data_Engineering.sql)
+- [Data_Engineering.ipynb](Coding/Data_Engineering.ipynb)
     - The file contains code that converts the data from csv files into Pandas DataFrames. The data has been cleaned to display relevant columns and Null values have been changed to zero values. The data has then been converted to a SQL database and reflected in Data_Engineering.db file. 
 - [Coding / static / css / style.css](Coding/static/css/style.css)
     - The file contains coding for the styling of the visualisation created using JavaScript.
