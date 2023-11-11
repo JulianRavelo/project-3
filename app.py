@@ -1,8 +1,6 @@
 # Import the required libraries
 from sqlalchemy import create_engine, Table, MetaData
 from flask import Flask, jsonify, send_file
-from watchdog.events import FileSystemEventHandler, EVENT_TYPE_OPENED
-
 
 # Flask setup
 app = Flask(__name__)
