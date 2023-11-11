@@ -39,9 +39,9 @@ All links in this section take you directly to the file in the repository.
     - The file contains coding for the styling of the visualisation created using JavaScript.
 - [Coding / static / js / logic1.js](Coding/static/js/logic1.js)
     - The file contains JavaScript coding for an interactive map displaying markers for Electric Vehicle Chargers and details about the charger. Additionally, it contains the code for a bar chart with the number of electric cars registered in NSW between 2017 and 2021
-- [Coding / static / js / logic1.js](Coding/static/js/plot.js)
+- [Coding / static / js / plot.js](Coding/static/js/plot.js)
     - The file contains JavaScript coding for an interactive pie chart displaying the distribution of power sources per state in Australia. 
-- [Coding / static / js / logic1.js](Coding/static/js/data.js)
+- [Coding / static / js / data.js](Coding/static/js/data.js)
     - The file contains JavaScript coding for the data used to plot the pie chart.
 ### [Resources](Resources)
 - [Data_Engineering.db](Resources/Data_Engineering.db)
