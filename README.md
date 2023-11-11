@@ -77,3 +77,9 @@ https://ev-infrastructure-mapping.s3-ap-southeast-2.amazonaws.com/chargers_by_po
 https://aemo.com.au/energy-systems/electricity/national-electricity-market-nem/data-nem/data-dashboard-nem
 
 ### GeoJSON information
+
+https://github.com/tonywr71/GeoJson-Data/blob/master/suburb-2-nsw.geojson
+
+### Websites used
+
+https://stackoverflow.com/questions/22521982/check-if-point-is-inside-a-polygon  
