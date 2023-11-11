@@ -30,6 +30,8 @@ Damian Kifuso
 
 Julian Ravelo
 ## - File layout
+All links in this section take you directly to the file in the repository.
+
 - [EV_Chargers.pdf](EV_Chargers.pdf)
     - The file is the project proposal, that outlines the scope and purpose of the project. It is a brief summary of our interests and intent for the project.
 - [app.py](app.py)
