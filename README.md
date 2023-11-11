@@ -56,6 +56,14 @@ All links in this section take you directly to the file in the repository.
     - description of the file
 
 ## Sources
+### Electric Vehicle Council
+
+https://electricvehiclecouncil.com.au/wp-content/uploads/2023/07/State-of-EVs_July-2023_.pdf 
+
+### NSW Government (NSW Climate and Energy Action)
+
+https://www.energy.nsw.gov.au/sites/default/files/2022-09/nsw-electric-vehicle-strategy-210225.pdf
+
 ### Australian Government NationalMap 
 
 https://nationalmap.gov.au/
