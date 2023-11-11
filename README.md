@@ -3,13 +3,6 @@
 - [Project Overview](#project-overview)
 - [Code Contributors](#code-contributors)
 - [File Layout](#file-layout)
-- [SQL database section](#sql-database-section)
-- [Flask API section](#flask-api-section)
-- [Plotly JavaScript bar chart](#plotly-javascript-bar-chart)
-- [Plotly JavaScript pie chart](#plotly-javascript-pie-chart)
-- [MapBox visualisations](#mapbox-visualisations)
-- [EV charger locations map markers](#ev-charger-locations-map-markers)
-- [Suburb information breakdown](#suburb-information-breakdown)
 - [Sources](#sources)
 
 ## Project Overview
@@ -29,7 +22,7 @@ Chang Yu
 Damian Kifuso
 
 Julian Ravelo
-## - File layout
+## - File Layout
 All links in this section take you directly to the file in the repository.
 
 - [EV_Chargers.pdf](EV_Chargers.pdf)
