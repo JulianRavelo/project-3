@@ -1,10 +1,11 @@
 # Import the required libraries
 from sqlalchemy import create_engine, Table, MetaData
 from flask import Flask, jsonify, send_file
+from flask_cors import CORS
 
 # Flask setup
 app = Flask(__name__)
-
+CORS(app)
 # Database Setup
 engine = create_engine("sqlite:///Resources/Data_Engineering.db")
 
