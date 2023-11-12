@@ -46,8 +46,6 @@ All links in this section take you directly to the file in the repository.
 ### [Resources](Resources)
 - [Data_Engineering.db](Resources/Data_Engineering.db)
     - The file contains the cleaned data from the below csv files.
-- [EV_marker.jpg](Resources/EV_marker.jpg)
-    - The file contains the image used for the map marker in the interactive map visualisation.
 - [chargers_by_postcode_prototype.csv](Resources/chargers_by_postcode_prototype.csv)
     - The dataset contains number of Electric Vehicle (EV) registrations by postcode for a specified year. The data documents the total number of vehicles registered in that year, regardless of whether they are new registrations or a re-registration. The years documented in the dataset are between 2017 and 2021. There are 4,751 rows and 832 columns of data.
 - [ev_evc_prototype.csv](Resources/ev_evc_prototype.csv)
