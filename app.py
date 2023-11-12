@@ -15,6 +15,26 @@ EVs = metadata.tables['registration']
 EV_Chargers = metadata.tables['ev_charger']
 Fuel_Source = metadata.tables['fuel_type']
 
+# Main route
+@app.route("/")
+def welcome():
+    """List all available api routes."""
+    return (
+        f"Available Routes:<br/>"
+        f"Electrical vehicles registered in NSW<br/>"
+        f"/api/v1.0/evs<br/>"
+        f"<br/>"
+        f"Electrical vehicle chargers in NSW<br/>"
+        f"/api/v1.0/ev_chargers<br/>"
+        f"<br/>"
+        f"Sources for generation of power per stated in Australia<br/>"
+        f"/api/v1.0/fuel_sources<br/>"
+        f"<br/>"
+        f"Geojson with suburbs in NSW<br/>"
+        f"/api/v1.0/NSW_suburbs<br/>"
+        f"<br/>"
+    )
+
 # Create an API route for EVs
 @app.route("/api/v1.0/evs")
 def get_EVs():
