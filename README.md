@@ -34,7 +34,7 @@ All links in this section take you directly to the file in the repository.
 
 ### [Coding](Coding)
 - [Data_Engineering.ipynb](Coding/Data_Engineering.ipynb)
-    - The file contains code that converts the data from csv files into Pandas DataFrames. The data has been cleaned to display relevant columns and Null values have been changed to zero values. The data has then been converted to a SQL database and reflected in Data_Engineering.db file. 
+    - The file contains code that converts the data from csv files into Pandas DataFrames. The data has been cleaned to display relevant columns and Null values have been changed to zero values. The data has then been converted to a SQL database and reflected in Data_Engineering.db file. This file also includes the data  cleaning for geojson file. It extracts the name of the suburb from the address column in csv file, and lowercase them so they can be merged with geojson file which also is lowercased.
 - [Coding / static / css / style.css](Coding/static/css/style.css)
     - The file contains coding for the styling of the visualisation created using JavaScript.
 - [Coding / static / js / logic1.js](Coding/static/js/logic1.js)
@@ -54,6 +54,8 @@ All links in this section take you directly to the file in the repository.
     - The dataset is a breakdown of energy sources in the Australian National Electricity Market (NEM), containing energy source distribution of all Australian States (not including WA, NT, and ACT) between 29th October 2022 to the 21st October 2023. There are 1,524 rows and 5 columns of data.
 - [final_nsw.geojson](Resources/final_nsw.geojson)
     - By merging a geojson file with the suburbs with the location of the EV chargers in NSW, a new geojson file was created containing information from both data sources. 
+- [suburb-2-nsw.geojson](Resources/suburb-2-nsw.geojson)
+    - The geojson file contains the location of the suburbs of NSW.
 
 ## Sources
 ### Electric Vehicle Council
