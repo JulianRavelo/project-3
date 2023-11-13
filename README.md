@@ -47,11 +47,11 @@ All links in this section take you directly to the file in the repository.
 - [Data_Engineering.db](Resources/Data_Engineering.db)
     - The file contains the cleaned data from the below csv files.
 - [chargers_by_postcode_prototype.csv](Resources/chargers_by_postcode_prototype.csv)
-    - The dataset contains number of Electric Vehicle (EV) registrations by postcode for a specified year. The data documents the total number of vehicles registered in that year, regardless of whether they are new registrations or a re-registration. The years documented in the dataset are between 2017 and 2021. There are 4,751 rows and 832 columns of data.
+    - The dataset contains number of Electric Vehicle (EV) registrations by postcode for a specified year. The data documents the total number of vehicles registered in that year, regardless of whether they are new registrations or a re-registration. The years documented in the dataset are between 2017 and 2021. There are 4,750 rows and 433 columns of data.
 - [ev_evc_prototype.csv](Resources/ev_evc_prototype.csv)
-    - The dataset contains the number and location of current Electric Vehicle (EV) charging stations. The dataset contains information such as name, location details, charger type, plug type, charging network, power (kW), and hardware brand. There are no dates documented in the dataset. There are 505 rows and 12 columns of data.
+    - The dataset contains the number and location of current Electric Vehicle (EV) charging stations. The dataset contains information such as name, location details, charger type, plug type, charging network, power (kW), and hardware brand. There are no dates documented in the dataset. There are 504 rows and 12 columns of data.
 - [NEMFUELMIX_ALL_202311022059.csv](Resources/NEMFUELMIX_ALL_202311022059.csv)
-    - The dataset is a breakdown of energy sources in the Australian National Electricity Market (NEM), containing energy source distribution of all Australian States (not including WA, NT, and ACT) between 29th October 2022 to the 21st October 2023. There are 1,524 rows and 5 columns of data.
+    - The dataset is a breakdown of energy sources in the Australian National Electricity Market (NEM), containing energy source distribution of all Australian States (not including WA, NT, and ACT) between 29th October 2022 to the 21st October 2023. There are 1,523 rows and 4 columns of data.
 - [final_nsw.geojson](Resources/final_nsw.geojson)
     - By merging a geojson file with the suburbs with the location of the EV chargers in NSW, a new geojson file was created containing information from both data sources. 
 - [suburb-2-nsw.geojson](Resources/suburb-2-nsw.geojson)
