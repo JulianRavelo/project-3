@@ -1,29 +1,57 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Project 3 - Group 1</title>
-  <script src="https://api.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.js"></script>
+  <style>
+  body {
+    padding: 10px;
+    margin: 40px;
+    background-color: #001f3f;
+    color: white;
+    font-family: 'Angsana New', sans-serif;   
+  }
+  h1 {
+    color: #00ff00;
+  }
+  </style>
   <link href="https://api.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.css" rel="stylesheet" />
+  <script src="https://api.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.js"></script>
 </head>
 <body>
-  
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12 jumbotron text-center">
-        <h1>EV chargers in NSW</h1>
-        <p>Use the interactive charts below to explore the dataset</p>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8">
+          <h1>EV chargers in NSW</h1>
+        <p>Use the interactive charts below to explore the dataset </p>
       </div>
     </div>
+
+    <!-- The div that holds our  map -->
+    <div class="row">
+      <div class="col-md-5">
+        <h2 class="panel-title">Map Info</h2>
+        <p>Following map shows the suburbs in NSW that have an EV charger. 
+          When clicking the markers, you can see information related to the EV charger.
+          When clicking any point within the suburb, you can see the number if chargers in it</p>
+        <div id="map" style="width: 100%; height: 500px;" align="center"></div>
+      </div>
+    </div>
+
     <div class="row">
       <div class="col-md-5">
         <h2 class="panel-title">Bar chart</h2>
         <p>Bar chart below shows the number of electrical vehicles registered in NSW per year. 
         </p>
-        <div id="barChart"></div>
+        <div id="barChart" align="center"></div>
       </div>
     </div>
+
     <div class="row">
-      <div class="col-md-12">
+      <div class="col-md-8">
         <h2>Sources of power in Australia</h2>
         <p>Pie chart below shows the distribution of the generation depending on its source. 
           Numbers on hover reflect supply per state in 2022 and 2023.
@@ -36,26 +64,21 @@
           <option value="TAS">TAS</option>
           <option value="VIC">VIC</option>
         </select>
-        <div id="pie"></div>
+        <div id="pie" align="center"></div>
       </div>
     </div>
   </div>
 
   <p>Data Source:<br />
     <ul>
-        <li>
-            <a href="https://aemo.com.au/energy-systems/electricity/national-electricity-market-nem/data-nem/data-dashboard-nem">Australian Energy Market Operator (Data)</a>
-        </li>
-        </ul>
-</p>
+      <li>
+        <a href="https://aemo.com.au/energy-systems/electricity/national-electricity-market-nem/data-nem/data-dashboard-nem" style="color: white;">
+          Australian Energy Market Operator (Data)
+        </a>
+      </li>
+    </ul>
+  </p>
 
-  <!-- The div that holds our map -->
-  <h2 class="panel-title">Map Info</h2>
-  <p>Following map shows the suburbs in NSW that have an EV charger. 
-    When clicking the markers, you can see information related to the EV charger.
-    When clicking any point within the suburb, you can see the number if chargers in it</p>
-  <div id="map" style="width: 80%; height: 500px;"></div>
-  
   <!-- D3 JavaScript -->
   <script src="https://d3js.org/d3.v7.min.js"></script>
 
